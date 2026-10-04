@@ -1,0 +1,1201 @@
+id_venta,fecha,cliente_id,region,categoria,producto,cantidad,monto_venta
+753,2025-01-01,C0145,Sur,Hogar,Termo,1,7984.21
+412,2025-01-01,C0174,Sur,Juguetes,Bloques,2,6936.66
+623,2025-01-01,C0253,GBA,Electrónica,Mouse,1,14172.29
+427,2025-01-01,C0300,CABA,Indumentaria,Zapatillas,1,7975.33
+499,2025-01-01,C0187,CABA,Hogar,Juego de sábanas,2,8136.95
+16,2025-01-01,C0262,GBA,Deportes,Pelota,1,16764.57
+567,2025-01-01,C0189,CABA,Indumentaria,Campera,1,15205.62
+889,2025-01-02,C0154,CABA,Hogar,Termo,2,8247.18
+179,2025-01-02,C0024,Centro,Juguetes,Rompecabezas,1,8636.78
+1182,2025-01-02,C0247,GBA,Indumentaria,Campera,1,8881.0
+813,2025-01-03,C0019,Norte,Hogar,Sartén,1,6880.14
+682,2025-01-03,C0218,Sur,Deportes,Colchoneta,1,14003.57
+625,2025-01-03,C0185,CABA,Indumentaria,Buzo,1,6352.64
+650,2025-01-03,C0165,CABA,Indumentaria,Pantalón,2,9997.95
+1078,2025-01-04,C0227,CABA,Hogar,Lámpara,1,2213.21
+954,2025-01-04,C0142,GBA,Indumentaria,Pantalón,1,9316.21
+1123,2025-01-04,C0091,CABA,Indumentaria,Zapatillas,2,14036.66
+563,2025-01-04,C0029,Centro,Hogar,Almohada,1,4406.01
+555,2025-01-05,C0006,CABA,Deportes,Colchoneta,1,12249.23
+1014,2025-01-05,C0243,CABA,Juguetes,Bloques,1,3901.41
+411,2025-01-05,C0208,Norte,Deportes,Pelota,2,10592.55
+400,2025-01-05,C0175,GBA,Hogar,Sartén,2,3293.19
+61,2025-01-05,C0221,Centro,Indumentaria,Zapatillas,1,11239.77
+274,2025-01-06,C0092,CABA,Electrónica,Smartwatch,1,9284.22
+672,2025-01-06,C0063,CABA,Electrónica,Auriculares,1,17797.39
+211,2025-01-06,C0281,CABA,Electrónica,Parlante BT,1,12587.69
+127,2025-01-06,C0223,Centro,Hogar,Termo,1,3162.25
+20,2025-01-07,C0027,CABA,Juguetes,Peluche,1,6256.62
+897,2025-01-07,C0048,Norte,Deportes,Mancuernas,1,12093.04
+1033,2025-01-07,C0103,Sur,Juguetes,Bloques,1,4750.3
+833,2025-01-08,C0158,CABA,Juguetes,Muñeca,2,4850.11
+473,2025-01-08,C0084,GBA,Deportes,Colchoneta,1,10696.19
+902,2025-01-08,C0228,Sur,Indumentaria,Pantalón,1,6974.09
+199,2025-01-08,C0159,Norte,Juguetes,Muñeca,1,3831.36
+927,2025-01-09,C0106,Norte,Indumentaria,Zapatillas,1,8737.97
+701,2025-01-09,C0178,Sur,Electrónica,Mouse,1,10018.29
+253,2025-01-09,C0206,Sur,Electrónica,Smartwatch,1,10287.73
+1025,2025-01-09,C0233,Norte,Hogar,Lámpara,1,5255.75
+192,2025-01-09,C0240,CABA,Deportes,Mochila,1,10191.47
+207,2025-01-10,C0089,GBA,Indumentaria,Buzo,3,7427.88
+493,2025-01-11,C0232,CABA,Juguetes,Muñeca,1,5178.61
+918,2025-01-11,C0270,CABA,Deportes,Mancuernas,1,14967.07
+48,2025-01-11,C0276,GBA,Indumentaria,Remera,2,10136.99
+710,2025-01-11,C0136,CABA,Indumentaria,Remera,1,8729.61
+1106,2025-01-12,C0237,Norte,Deportes,Mancuernas,2,20302.68
+440,2025-01-12,C0153,Sur,Electrónica,Auriculares,1,21776.6
+213,2025-01-12,C0058,GBA,Electrónica,Auriculares,1,18969.07
+883,2025-01-12,C0130,GBA,Electrónica,Cargador,1,14510.81
+120,2025-01-13,C0288,Sur,Deportes,Mancuernas,1,6934.1
+77,2025-01-13,C0281,CABA,Indumentaria,Zapatillas,1,9930.61
+754,2025-01-13,C0205,CABA,Hogar,Termo,2,9020.35
+1152,2025-01-13,C0230,GBA,Hogar,Sartén,1,4802.5
+855,2025-01-15,C0074,CABA,Hogar,Sartén,1,7450.41
+381,2025-01-15,C0049,CABA,Juguetes,Peluche,2,4149.06
+503,2025-01-15,C0016,Norte,Electrónica,Cargador,1,21129.4
+1126,2025-01-15,C0197,Sur,Juguetes,Peluche,1,6022.64
+816,2025-01-16,C0020,Norte,Hogar,Sartén,1,4778.74
+301,2025-01-16,C0192,Sur,Indumentaria,Zapatillas,1,8075.46
+1110,2025-01-17,C0244,Sur,Electrónica,Cargador,1,11646.43
+856,2025-01-17,C0241,GBA,Juguetes,Rompecabezas,1,5002.49
+648,2025-01-17,C0001,Sur,Electrónica,Smartwatch,2,20150.38
+286,2025-01-17,C0126,CABA,Electrónica,Auriculares,1,21501.1
+747,2025-01-17,C0105,Norte,Hogar,Termo,1,5708.41
+870,2025-01-17,C0247,CABA,Indumentaria,Zapatillas,1,5233.87
+126,2025-01-18,C0289,Norte,Hogar,Sartén,1,6363.7
+553,2025-01-18,C0059,Centro,Deportes,Colchoneta,1,15233.83
+271,2025-01-19,C0192,GBA,Deportes,Bicicleta,1,20402.37
+60,2025-01-20,C0229,Norte,Electrónica,Parlante BT,1,13445.24
+876,2025-01-20,C0041,CABA,Hogar,Juego de sábanas,1,6188.0
+415,2025-01-21,C0012,Norte,Deportes,Colchoneta,1,12938.94
+703,2025-01-21,C0298,GBA,Indumentaria,Campera,3,5100.16
+483,2025-01-22,C0272,Sur,Indumentaria,Campera,1,10077.31
+307,2025-01-22,C0239,CABA,Juguetes,Muñeca,1,5838.62
+886,2025-01-22,C0048,CABA,Indumentaria,Remera,1,5959.09
+1010,2025-01-22,C0211,Centro,Hogar,Juego de sábanas,2,5799.45
+71,2025-01-22,C0225,CABA,Deportes,Mancuernas,2,13252.81
+1027,2025-01-23,C0028,CABA,Hogar,Almohada,2,5623.26
+739,2025-01-23,C0182,CABA,Electrónica,Auriculares,2,17369.18
+1120,2025-01-23,C0226,Sur,Indumentaria,Remera,2,8880.59
+1077,2025-01-24,C0182,GBA,Deportes,Bicicleta,1,14362.92
+9,2025-01-24,C0200,Norte,Indumentaria,Buzo,2,8644.52
+513,2025-01-24,C0248,CABA,Hogar,Termo,1,7128.73
+235,2025-01-25,C0033,CABA,Deportes,Mancuernas,1,12478.87
+991,2025-01-25,C0079,Sur,Electrónica,Auriculares,1,11198.45
+986,2025-01-26,C0081,Centro,Electrónica,Cargador,1,9461.42
+3,2025-01-26,C0062,Norte,Indumentaria,Buzo,1,9695.73
+391,2025-01-27,C0175,CABA,Hogar,Sartén,1,5434.92
+947,2025-01-27,C0095,CABA,Electrónica,Parlante BT,1,16628.03
+1084,2025-01-27,C0050,Centro,Hogar,Juego de sábanas,1,939.43
+190,2025-01-28,C0203,GBA,Hogar,Termo,2,6188.81
+532,2025-01-28,C0231,CABA,Deportes,Pelota,2,11893.38
+771,2025-01-28,C0098,CABA,Deportes,Colchoneta,1,14522.32
+472,2025-01-29,C0281,Norte,Juguetes,Auto a control,2,4786.21
+847,2025-01-29,C0117,Norte,Juguetes,Rompecabezas,1,4703.53
+362,2025-01-29,C0170,CABA,Juguetes,Auto a control,2,8651.06
+925,2025-01-30,C0144,CABA,Juguetes,Muñeca,1,4685.54
+653,2025-01-30,C0007,Norte,Deportes,Mancuernas,1,10183.11
+620,2025-01-30,C0088,CABA,Deportes,Mochila,1,9928.53
+1150,2025-01-30,C0044,Norte,Hogar,Termo,1,7117.29
+1013,2025-01-30,C0155,Norte,Indumentaria,Campera,2,
+113,2025-01-30,C0257,Norte,Deportes,Mancuernas,1,8143.62
+780,2025-01-31,C0198,CABA,Indumentaria,Zapatillas,1,8679.87
+541,2025-01-31,C0214,GBA,Hogar,Almohada,1,6722.01
+1183,2025-01-31,C0203,CABA,Juguetes,Auto a control,1,2865.92
+882,2025-02-01,C0127,Centro,Indumentaria,Pantalón,1,12166.7
+417,2025-02-01,C0191,Norte,Hogar,Sartén,1,7212.24
+997,2025-02-01,C0165,GBA,Hogar,Juego de sábanas,1,5833.6
+715,2025-02-01,C0209,,Indumentaria,Campera,3,7967.49
+911,2025-02-01,C0047,Centro,Electrónica,Cargador,3,21915.69
+465,2025-02-01,C0083,Sur,Electrónica,Parlante BT,1,17327.77
+1055,2025-02-01,C0119,Norte,Deportes,Bicicleta,1,6680.1
+821,2025-02-01,C0062,GBA,Hogar,Sartén,1,6961.97
+714,2025-02-01,C0130,CABA,Indumentaria,Zapatillas,1,10689.3
+766,2025-02-02,C0037,Norte,Hogar,Almohada,1,
+490,2025-02-02,C0266,Sur,Indumentaria,Campera,1,5878.81
+617,2025-02-02,C0148,Norte,Juguetes,Auto a control,1,3581.07
+306,2025-02-03,C0027,CABA,Deportes,Mancuernas,2,8670.39
+325,2025-02-03,C0077,Sur,Electrónica,Mouse,2,11773.82
+238,2025-02-03,C0009,Sur,Hogar,Almohada,1,7845.47
+63,2025-02-03,C0112,CABA,Hogar,Sartén,1,7002.92
+260,2025-02-04,C0291,Centro,Deportes,Mochila,1,5455.32
+1101,2025-02-05,C0279,Sur,Hogar,Lámpara,1,5335.21
+89,2025-02-05,C0096,CABA,Juguetes,Auto a control,1,4244.47
+862,2025-02-05,C0268,CABA,Electrónica,Mouse,1,14492.78
+875,2025-02-05,C0006,Norte,Juguetes,Bloques,3,3445.68
+160,2025-02-05,C0242,Centro,Deportes,Mochila,1,18840.28
+969,2025-02-06,C0246,CABA,Deportes,Mochila,1,2305.73
+1006,2025-02-06,C0080,,Hogar,Termo,1,3074.75
+312,2025-02-06,C0250,Centro,Juguetes,Peluche,2,7391.83
+217,2025-02-06,C0271,GBA,Hogar,Sartén,2,6544.88
+601,2025-02-07,C0053,CABA,Juguetes,Rompecabezas,2,5444.31
+295,2025-02-07,C0068,Norte,Indumentaria,Campera,1,8789.51
+496,2025-02-08,C0095,GBA,Deportes,Pelota,1,14824.29
+34,2025-02-08,C0187,Norte,Hogar,Juego de sábanas,1,2405.89
+1036,2025-02-08,C0142,Norte,Hogar,Termo,2,7616.64
+1146,2025-02-09,C0140,CABA,Juguetes,Peluche,1,3064.7
+770,2025-02-09,C0278,GBA,Deportes,Colchoneta,1,14796.64
+767,2025-02-09,C0235,Sur,Juguetes,Muñeca,1,3173.9
+97,2025-02-09,C0260,Sur,Deportes,Bicicleta,1,14337.53
+467,2025-02-10,C0006,CABA,Electrónica,Smartwatch,1,19919.88
+1194,2025-02-10,C0076,CABA,Deportes,Bicicleta,1,12956.6
+614,2025-02-10,C0116,GBA,Deportes,Bicicleta,2,10042.2
+592,2025-02-11,C0165,Norte,Deportes,Bicicleta,1,16098.18
+1159,2025-02-11,C0046,Centro,Electrónica,Mouse,1,13273.67
+368,2025-02-11,C0117,Sur,Juguetes,Peluche,1,3609.78
+12,2025-02-12,C0081,CABA,Juguetes,Rompecabezas,3,4636.72
+170,2025-02-12,C0101,CABA,Juguetes,Muñeca,1,3386.64
+1042,2025-02-12,C0061,GBA,Deportes,Mancuernas,1,11669.27
+524,2025-02-12,C0124,CABA,Electrónica,Smartwatch,1,9473.86
+347,2025-02-13,C0248,CABA,Electrónica,Cargador,2,20884.48
+888,2025-02-13,C0214,Norte,Juguetes,Rompecabezas,1,4137.4
+474,2025-02-13,C0290,GBA,Hogar,Termo,1,3535.41
+95,2025-02-13,C0074,GBA,Electrónica,Mouse,2,47245.9
+106,2025-02-14,C0273,Centro,Indumentaria,Buzo,1,6247.88
+573,2025-02-14,C0270,CABA,Electrónica,Parlante BT,1,13880.91
+263,2025-02-14,C0027,CABA,Juguetes,Muñeca,1,6039.11
+22,2025-02-14,C0178,GBA,Electrónica,Auriculares,1,21071.47
+908,2025-02-14,C0180,Centro,Electrónica,Smartwatch,1,15406.89
+206,2025-02-14,C0033,Norte,Deportes,Bicicleta,2,8382.68
+166,2025-02-15,C0026,Centro,Electrónica,Smartwatch,2,12636.38
+168,2025-02-15,C0217,CABA,Hogar,Juego de sábanas,2,7124.04
+867,2025-02-15,C0194,Centro,Indumentaria,Remera,1,4964.68
+755,2025-02-15,C0145,Norte,Indumentaria,Zapatillas,3,7349.03
+1196,2025-02-15,C0273,Norte,Electrónica,Auriculares,1,12133.18
+75,2025-02-17,C0048,Sur,Indumentaria,Pantalón,1,8692.46
+1024,2025-02-17,C0285,,Hogar,Juego de sábanas,1,6385.04
+525,2025-02-17,C0053,CABA,Electrónica,Smartwatch,1,20581.89
+612,2025-02-17,C0121,Centro,Deportes,Pelota,1,16550.71
+230,2025-02-17,C0282,GBA,Hogar,Sartén,3,6848.62
+1171,2025-02-18,C0023,Norte,Deportes,Colchoneta,2,17936.15
+182,2025-02-18,C0171,Centro,Electrónica,Smartwatch,1,14297.47
+811,2025-02-18,C0245,CABA,Electrónica,Mouse,2,8718.35
+1018,2025-02-19,C0214,Sur,Electrónica,Cargador,1,11723.32
+237,2025-02-19,C0234,Centro,Electrónica,Parlante BT,1,12253.58
+958,2025-02-19,C0040,CABA,Deportes,Mochila,3,6892.89
+418,2025-02-19,C0241,CABA,Deportes,Mochila,1,12483.86
+924,2025-02-19,C0280,CABA,Hogar,Almohada,1,4114.06
+940,2025-02-19,C0261,GBA,Hogar,Lámpara,1,6231.9
+221,2025-02-19,C0045,Norte,Deportes,Mochila,1,9159.74
+129,2025-02-19,C0017,Centro,Indumentaria,Campera,1,11832.91
+731,2025-02-20,C0239,GBA,Deportes,Bicicleta,1,10194.04
+743,2025-02-21,C0213,Sur,Electrónica,Auriculares,1,18372.75
+1114,2025-02-22,C0232,Norte,Hogar,Lámpara,1,5329.18
+633,2025-02-22,C0121,Centro,Electrónica,Auriculares,1,15065.01
+1066,2025-02-22,C0061,CABA,Indumentaria,Zapatillas,1,6699.96
+554,2025-02-22,C0071,GBA,Hogar,Lámpara,1,8644.84
+680,2025-02-22,C0079,Sur,Electrónica,Auriculares,1,12786.29
+1199,2025-02-23,C0242,Centro,Indumentaria,Buzo,1,10748.78
+1166,2025-02-24,C0106,Sur,Juguetes,Muñeca,1,5206.84
+94,2025-02-24,C0300,CABA,Deportes,Colchoneta,1,8481.01
+102,2025-02-24,C0228,GBA,Deportes,Mancuernas,1,15479.95
+577,2025-02-25,C0147,Norte,Indumentaria,Pantalón,1,14529.18
+585,2025-02-25,C0046,Centro,Deportes,Mochila,2,16811.88
+591,2025-02-25,C0054,CABA,Indumentaria,Pantalón,1,6583.3
+454,2025-02-26,C0265,CABA,Indumentaria,Campera,1,8257.43
+1041,2025-02-26,C0160,GBA,Indumentaria,Buzo,1,8217.49
+1153,2025-02-27,C0059,GBA,Indumentaria,Remera,1,8128.87
+916,2025-02-27,C0224,Norte,Deportes,Bicicleta,1,10594.92
+967,2025-02-27,C0187,CABA,Electrónica,Auriculares,1,20170.11
+562,2025-02-28,C0048,GBA,Indumentaria,Buzo,1,4921.64
+995,2025-02-28,C0146,GBA,Electrónica,Cargador,1,15185.46
+375,2025-03-01,C0023,GBA,Deportes,Pelota,1,9747.04
+1186,2025-03-01,C0107,Sur,Hogar,Termo,1,12102.65
+993,2025-03-03,C0048,GBA,Indumentaria,Remera,1,7101.38
+246,2025-03-03,C0293,CABA,Electrónica,Cargador,1,15554.57
+941,2025-03-03,C0194,Centro,Hogar,Almohada,1,2867.51
+611,2025-03-04,C0271,CABA,Juguetes,Rompecabezas,2,4092.5
+566,2025-03-04,C0149,CABA,Deportes,Colchoneta,1,7225.52
+934,2025-03-04,C0267,Sur,Hogar,Almohada,1,10278.89
+354,2025-03-04,C0164,CABA,Electrónica,Smartwatch,1,14691.17
+1090,2025-03-04,C0021,CABA,Indumentaria,Pantalón,1,11436.23
+1037,2025-03-04,C0004,Centro,Indumentaria,Pantalón,1,7567.55
+159,2025-03-05,C0271,Centro,Indumentaria,Remera,1,12729.54
+187,2025-03-06,C0020,Centro,Electrónica,Auriculares,1,17708.71
+709,2025-03-06,C0021,Norte,Hogar,Lámpara,1,7693.53
+616,2025-03-07,C0259,CABA,Deportes,Pelota,1,12957.52
+1156,2025-03-07,C0219,Norte,Deportes,Colchoneta,1,12809.69
+702,2025-03-07,C0009,CABA,Indumentaria,Remera,2,6349.88
+879,2025-03-08,C0195,Sur,Deportes,Colchoneta,1,10237.17
+720,2025-03-08,C0121,CABA,Hogar,Sartén,1,7151.66
+459,2025-03-09,C0218,GBA,Juguetes,Muñeca,1,5602.12
+4,2025-03-09,C0281,Sur,Juguetes,Auto a control,1,4089.98
+73,2025-03-09,C0206,Sur,Deportes,Colchoneta,1,6627.03
+236,2025-03-09,C0246,Sur,Hogar,Juego de sábanas,1,5434.8
+58,2025-03-09,C0036,Norte,Deportes,Mancuernas,1,10381.65
+279,2025-03-10,C0236,CABA,Juguetes,Bloques,2,6174.73
+488,2025-03-10,C0210,Sur,Indumentaria,Campera,1,2821.01
+241,2025-03-10,C0098,Norte,Hogar,Termo,1,7416.95
+15,2025-03-10,C0265,Sur,Indumentaria,Remera,1,4711.88
+388,2025-03-11,C0251,Sur,Hogar,Termo,1,6089.32
+1056,2025-03-11,C0068,Centro,Electrónica,Cargador,3,14714.61
+789,2025-03-11,C0125,CABA,Electrónica,Mouse,2,17163.42
+877,2025-03-11,C0245,Centro,Juguetes,Rompecabezas,1,6345.25
+218,2025-03-11,C0242,CABA,Juguetes,Bloques,2,3913.36
+613,2025-03-11,C0062,Norte,Juguetes,Rompecabezas,1,4815.82
+1176,2025-03-12,C0100,Norte,Electrónica,Mouse,1,20305.13
+1057,2025-03-12,C0069,GBA,Indumentaria,Campera,1,6627.73
+645,2025-03-12,C0157,Norte,Electrónica,Smartwatch,1,12483.81
+452,2025-03-13,C0039,,Juguetes,Peluche,1,4775.58
+1026,2025-03-13,C0180,GBA,Hogar,Juego de sábanas,1,4950.5
+46,2025-03-13,C0211,GBA,Juguetes,Auto a control,1,1745.07
+685,2025-03-13,C0232,CABA,Electrónica,Auriculares,2,10183.23
+1058,2025-03-14,C0140,Norte,Juguetes,Bloques,1,6611.29
+409,2025-03-14,C0022,Norte,Hogar,Termo,1,7249.01
+331,2025-03-14,C0231,Norte,Electrónica,Smartwatch,1,9738.48
+39,2025-03-14,C0062,Norte,Indumentaria,Zapatillas,3,8159.1
+10,2025-03-14,C0217,CABA,Electrónica,Cargador,1,8003.92
+1125,2025-03-15,C0181,Centro,Juguetes,Rompecabezas,1,5307.89
+865,2025-03-15,C0050,CABA,Deportes,Bicicleta,1,14190.9
+290,2025-03-15,C0035,Norte,Indumentaria,Remera,1,3889.56
+1050,2025-03-16,C0057,Sur,Hogar,Juego de sábanas,1,5427.46
+994,2025-03-16,C0078,GBA,Electrónica,Auriculares,1,14868.23
+919,2025-03-16,C0043,Sur,Electrónica,Smartwatch,1,8034.86
+970,2025-03-17,C0282,CABA,Indumentaria,Buzo,2,3364.19
+17,2025-03-17,C0069,GBA,Indumentaria,Buzo,1,13096.34
+150,2025-03-18,C0299,CABA,Hogar,Almohada,1,5020.53
+250,2025-03-18,C0261,Centro,Hogar,Lámpara,2,7258.48
+621,2025-03-18,C0083,GBA,Electrónica,Smartwatch,1,21971.75
+137,2025-03-18,C0041,GBA,Juguetes,Muñeca,1,4150.77
+543,2025-03-18,C0250,Norte,Deportes,Mochila,1,6193.52
+234,2025-03-19,C0135,Centro,Deportes,Mochila,1,14421.87
+610,2025-03-19,C0147,Norte,Electrónica,Mouse,1,16006.86
+963,2025-03-19,C0035,GBA,Electrónica,Cargador,2,15251.37
+161,2025-03-19,C0239,GBA,Electrónica,Cargador,1,14214.97
+706,2025-03-19,C0164,Centro,Juguetes,Peluche,1,7990.58
+798,2025-03-19,C0274,Sur,Hogar,Lámpara,3,5670.09
+845,2025-03-19,C0019,Sur,Hogar,Sartén,1,5046.13
+507,2025-03-19,C0036,Norte,Electrónica,Smartwatch,1,8858.55
+1127,2025-03-19,C0242,Sur,Deportes,Bicicleta,1,20108.73
+915,2025-03-20,C0239,Norte,Hogar,Almohada,1,7655.22
+248,2025-03-20,C0128,CABA,Hogar,Sartén,1,3878.13
+570,2025-03-21,C0073,CABA,Hogar,Lámpara,1,5269.18
+1095,2025-03-21,C0256,GBA,Electrónica,Cargador,1,14642.71
+364,2025-03-21,C0039,CABA,Hogar,Lámpara,1,5593.26
+426,2025-03-21,C0047,Centro,Indumentaria,Pantalón,1,12161.23
+698,2025-03-21,C0130,,Indumentaria,Campera,1,1600.38
+944,2025-03-22,C0166,Sur,Juguetes,Auto a control,1,6187.85
+393,2025-03-22,C0153,Sur,Hogar,Almohada,1,5457.66
+788,2025-03-22,C0215,Sur,Deportes,Bicicleta,1,12832.68
+1032,2025-03-22,C0188,Sur,Deportes,Pelota,1,13827.48
+329,2025-03-23,C0099,Centro,Electrónica,Auriculares,1,22566.08
+1200,2025-03-23,C0236,Centro,Hogar,Termo,1,6643.01
+726,2025-03-23,C0255,CABA,Indumentaria,Pantalón,1,7448.39
+891,2025-03-24,C0053,Centro,Indumentaria,Buzo,2,9294.5
+500,2025-03-24,C0082,Centro,Hogar,Juego de sábanas,2,6182.94
+1188,2025-03-25,C0204,GBA,Deportes,Mancuernas,1,12608.08
+70,2025-03-25,C0161,Norte,Hogar,Juego de sábanas,1,7497.57
+819,2025-03-26,C0047,GBA,Indumentaria,Pantalón,1,9087.06
+527,2025-03-26,C0013,GBA,Hogar,Juego de sábanas,1,5413.51
+355,2025-03-26,C0017,CABA,Electrónica,Mouse,3,12229.09
+425,2025-03-26,C0151,Sur,Indumentaria,Campera,1,6139.48
+152,2025-03-27,C0215,CABA,Electrónica,Parlante BT,1,15406.22
+1064,2025-03-27,C0171,CABA,Juguetes,Muñeca,3,5982.71
+1085,2025-03-27,C0102,Norte,Deportes,Bicicleta,1,11362.91
+142,2025-03-27,C0241,CABA,Juguetes,Peluche,1,5825.93
+950,2025-03-27,C0052,Sur,Deportes,Colchoneta,1,11514.89
+1157,2025-03-27,C0121,Norte,Electrónica,Smartwatch,1,17558.06
+670,2025-03-27,C0073,GBA,Juguetes,Auto a control,1,5210.23
+379,2025-03-28,C0161,CABA,Indumentaria,Buzo,1,7525.11
+960,2025-03-28,C0215,Centro,Juguetes,Auto a control,1,3387.71
+999,2025-03-28,C0083,CABA,Hogar,Lámpara,2,4167.78
+134,2025-03-29,C0293,Sur,Indumentaria,Buzo,1,4127.99
+854,2025-03-29,C0171,Centro,Deportes,Mancuernas,1,8186.84
+1089,2025-03-29,C0237,GBA,Juguetes,Peluche,2,6028.76
+931,2025-03-29,C0075,Centro,Electrónica,Cargador,1,17708.76
+438,2025-03-29,C0113,GBA,Deportes,Pelota,1,7221.53
+803,2025-03-30,C0173,Norte,Indumentaria,Pantalón,1,13582.28
+548,2025-03-30,C0233,Sur,Juguetes,Muñeca,1,6308.59
+765,2025-03-30,C0028,CABA,Juguetes,Auto a control,1,4519.78
+914,2025-03-30,C0045,GBA,Indumentaria,Pantalón,1,6863.04
+284,2025-03-30,C0214,Norte,Electrónica,Cargador,2,4197.93
+480,2025-03-31,C0299,Sur,Juguetes,Peluche,1,3493.86
+537,2025-03-31,C0143,CABA,Hogar,Lámpara,1,8559.08
+482,2025-03-31,C0074,GBA,Electrónica,Smartwatch,2,11391.0
+1072,2025-03-31,C0031,Sur,Hogar,Juego de sábanas,1,4708.79
+556,2025-03-31,C0172,Centro,Deportes,Mancuernas,1,13232.52
+763,2025-03-31,C0256,Sur,Juguetes,Auto a control,1,5410.63
+449,2025-04-01,C0059,CABA,Electrónica,Mouse,1,13439.24
+1122,2025-04-02,C0131,Norte,Hogar,Sartén,1,5747.86
+1116,2025-04-02,C0054,CABA,Indumentaria,Campera,1,11512.64
+285,2025-04-02,C0064,CABA,Electrónica,Smartwatch,2,15318.72
+595,2025-04-02,C0019,Centro,Electrónica,Auriculares,1,14579.7
+53,2025-04-03,C0096,CABA,Deportes,Bicicleta,2,13395.58
+44,2025-04-03,C0042,Norte,Indumentaria,Pantalón,1,9453.44
+225,2025-04-03,C0069,Norte,Indumentaria,Buzo,2,7622.49
+220,2025-04-04,C0267,GBA,Deportes,Mochila,1,9895.0
+289,2025-04-04,C0080,Sur,Indumentaria,Remera,1,8155.89
+1083,2025-04-04,C0275,Centro,Hogar,Termo,2,6120.03
+442,2025-04-04,C0139,Centro,Hogar,Sartén,2,3381.87
+1046,2025-04-05,C0198,Norte,Hogar,Almohada,2,4554.26
+1003,2025-04-05,C0004,CABA,Deportes,Pelota,1,17655.31
+255,2025-04-05,C0064,CABA,Indumentaria,Remera,1,9160.34
+173,2025-04-06,C0238,Norte,Electrónica,Smartwatch,2,12049.58
+1002,2025-04-06,C0292,CABA,Hogar,Sartén,1,3832.94
+243,2025-04-06,C0224,GBA,Deportes,Colchoneta,2,9802.0
+832,2025-04-07,C0293,Norte,Deportes,Bicicleta,3,7399.57
+338,2025-04-07,C0215,Norte,Juguetes,Peluche,3,6532.34
+575,2025-04-07,C0166,Sur,Juguetes,Peluche,1,5532.7
+1175,2025-04-07,C0257,GBA,Hogar,Juego de sábanas,1,6263.62
+1161,2025-04-08,C0062,CABA,Juguetes,Peluche,2,4438.9
+110,2025-04-11,C0075,Centro,Electrónica,Cargador,1,17506.1
+572,2025-04-11,C0091,CABA,Indumentaria,Buzo,1,8557.89
+194,2025-04-11,C0022,Norte,Juguetes,Bloques,1,5576.76
+787,2025-04-11,C0038,CABA,Deportes,Mancuernas,1,12799.68
+684,2025-04-12,C0178,Sur,Deportes,Bicicleta,1,14945.03
+559,2025-04-12,C0081,CABA,Electrónica,Smartwatch,1,21038.17
+281,2025-04-13,C0189,Norte,Deportes,Pelota,2,16115.36
+965,2025-04-13,C0180,CABA,Electrónica,Cargador,1,11613.85
+1149,2025-04-13,C0271,GBA,Indumentaria,Campera,2,7856.29
+484,2025-04-13,C0163,CABA,Hogar,Almohada,2,5036.68
+365,2025-04-13,C0232,GBA,Hogar,Lámpara,1,8055.37
+330,2025-04-14,C0233,Centro,Electrónica,Mouse,1,11091.15
+510,2025-04-14,C0140,CABA,Indumentaria,Remera,2,8945.61
+1131,2025-04-14,C0197,Centro,Hogar,Sartén,1,5048.85
+1040,2025-04-14,C0075,Sur,Electrónica,Cargador,1,16932.1
+6,2025-04-14,C0081,GBA,Electrónica,Cargador,1,15329.15
+521,2025-04-14,C0247,CABA,Deportes,Mochila,1,8029.12
+401,2025-04-15,C0180,Sur,Hogar,Termo,1,10871.18
+976,2025-04-15,C0226,CABA,Deportes,Pelota,1,17426.41
+288,2025-04-15,C0021,Sur,Deportes,Mochila,2,10467.85
+587,2025-04-15,C0158,Norte,Deportes,Colchoneta,1,11494.7
+233,2025-04-16,C0181,CABA,Juguetes,Rompecabezas,1,4534.12
+131,2025-04-16,C0250,Norte,Electrónica,Parlante BT,1,12682.67
+1080,2025-04-16,C0168,Sur,Hogar,Termo,3,7233.63
+981,2025-04-16,C0166,Sur,Deportes,Colchoneta,1,16234.62
+1189,2025-04-17,C0239,GBA,Indumentaria,Campera,1,5350.61
+872,2025-04-17,C0291,GBA,Deportes,Mochila,1,14961.51
+905,2025-04-17,C0076,GBA,Electrónica,Smartwatch,1,7123.84
+1097,2025-04-17,C0180,CABA,Hogar,Termo,1,3500.25
+542,2025-04-17,C0160,GBA,Indumentaria,Pantalón,1,8957.64
+122,2025-04-17,C0091,Sur,Indumentaria,Buzo,1,6388.45
+982,2025-04-18,C0160,Norte,Indumentaria,Remera,1,7255.46
+485,2025-04-18,C0280,Centro,Deportes,Bicicleta,1,9997.71
+661,2025-04-18,C0085,CABA,Juguetes,Auto a control,1,4202.11
+79,2025-04-18,C0274,CABA,Indumentaria,Campera,2,9673.57
+83,2025-04-21,C0300,CABA,Deportes,Bicicleta,2,17546.36
+123,2025-04-21,C0200,CABA,Juguetes,Muñeca,2,51506.4
+728,2025-04-22,C0239,CABA,Indumentaria,Remera,1,6560.19
+351,2025-04-22,C0179,CABA,Juguetes,Peluche,1,5476.09
+28,2025-04-23,C0172,Norte,Indumentaria,Campera,1,6656.78
+405,2025-04-23,C0065,CABA,Electrónica,Smartwatch,1,2490.56
+643,2025-04-23,C0025,Centro,Juguetes,Bloques,2,4293.15
+929,2025-04-23,C0240,CABA,Hogar,Lámpara,1,7343.03
+807,2025-04-23,C0222,CABA,Hogar,Lámpara,1,3495.41
+498,2025-04-23,C0105,CABA,Electrónica,Parlante BT,1,12782.59
+942,2025-04-23,C0296,Sur,Electrónica,Cargador,2,10989.61
+414,2025-04-24,C0168,GBA,Indumentaria,Campera,1,3735.66
+422,2025-04-25,C0144,CABA,Electrónica,Parlante BT,1,15459.69
+691,2025-04-25,C0202,GBA,Deportes,Mochila,1,11488.52
+748,2025-04-26,C0236,Centro,Hogar,Termo,1,6637.52
+641,2025-04-26,C0002,Sur,Deportes,Colchoneta,1,10577.49
+1187,2025-04-26,C0051,Centro,Indumentaria,Zapatillas,1,12720.73
+536,2025-04-27,C0022,CABA,Deportes,Mancuernas,1,8829.28
+576,2025-04-27,C0242,Norte,Indumentaria,Campera,2,12316.47
+167,2025-04-27,C0200,CABA,Hogar,Lámpara,1,6743.56
+163,2025-04-28,C0036,GBA,Juguetes,Rompecabezas,1,5183.6
+901,2025-04-28,C0007,CABA,Juguetes,Muñeca,1,6586.17
+538,2025-04-28,C0249,Centro,Juguetes,Muñeca,1,6018.61
+453,2025-04-29,C0253,GBA,Deportes,Pelota,1,11769.3
+431,2025-04-29,C0163,CABA,Juguetes,Peluche,1,2691.95
+631,2025-04-30,C0044,Norte,Electrónica,Mouse,1,18304.11
+72,2025-04-30,C0161,Norte,Juguetes,Muñeca,1,6557.29
+637,2025-04-30,C0002,GBA,Hogar,Juego de sábanas,2,6178.38
+430,2025-04-30,C0143,CABA,Deportes,Bicicleta,1,16080.03
+1155,2025-05-01,C0142,CABA,Juguetes,Rompecabezas,1,4957.05
+569,2025-05-01,C0056,CABA,Deportes,Colchoneta,1,16209.77
+712,2025-05-01,C0285,CABA,Indumentaria,Campera,2,2892.13
+733,2025-05-01,C0011,GBA,Indumentaria,Pantalón,2,11105.05
+1117,2025-05-02,C0251,CABA,Juguetes,Peluche,1,1557.51
+874,2025-05-02,C0041,CABA,Electrónica,Smartwatch,1,13585.39
+270,2025-05-02,C0014,GBA,Hogar,Juego de sábanas,2,9047.1
+723,2025-05-02,C0018,Sur,Deportes,Colchoneta,1,16458.63
+149,2025-05-02,C0269,GBA,Hogar,Almohada,1,6171.79
+804,2025-05-02,C0199,GBA,Hogar,Sartén,1,4421.33
+468,2025-05-03,C0126,GBA,Deportes,Pelota,1,8757.65
+895,2025-05-03,C0159,CABA,Hogar,Almohada,1,
+769,2025-05-03,C0241,Sur,Indumentaria,Campera,1,10799.91
+251,2025-05-03,C0116,Centro,Indumentaria,Zapatillas,1,4143.73
+64,2025-05-04,C0084,CABA,Hogar,Lámpara,1,5120.78
+1165,2025-05-04,C0157,,Indumentaria,Zapatillas,2,5139.04
+337,2025-05-05,C0076,GBA,Electrónica,Auriculares,2,13054.65
+1177,2025-05-05,C0110,CABA,Electrónica,Mouse,1,15918.94
+416,2025-05-05,C0042,GBA,Deportes,Pelota,1,8806.64
+736,2025-05-05,C0248,GBA,Deportes,Mochila,1,5936.81
+738,2025-05-05,C0115,Norte,Hogar,Juego de sábanas,1,7240.47
+85,2025-05-05,C0082,Norte,Indumentaria,Campera,2,9780.49
+244,2025-05-06,C0129,Sur,Indumentaria,Pantalón,1,11046.61
+231,2025-05-07,C0068,CABA,Juguetes,Muñeca,1,3636.79
+319,2025-05-07,C0223,CABA,Electrónica,Cargador,2,14342.87
+210,2025-05-08,C0093,Centro,Electrónica,Mouse,2,10612.82
+797,2025-05-08,C0008,CABA,Indumentaria,Campera,1,10314.54
+920,2025-05-08,C0114,CABA,Indumentaria,Zapatillas,2,13680.63
+202,2025-05-09,C0290,GBA,Electrónica,Cargador,1,15308.06
+342,2025-05-10,C0278,Centro,Indumentaria,Zapatillas,1,5018.75
+869,2025-05-10,C0064,CABA,Juguetes,Rompecabezas,1,5152.9
+808,2025-05-10,C0136,GBA,Electrónica,Mouse,2,14060.98
+777,2025-05-10,C0023,Sur,Electrónica,Smartwatch,1,9735.44
+69,2025-05-11,C0148,Centro,Hogar,Almohada,1,7711.13
+979,2025-05-11,C0083,GBA,Hogar,Termo,2,5183.98
+1053,2025-05-11,C0067,GBA,Electrónica,Auriculares,3,20288.14
+98,2025-05-12,C0198,Sur,Indumentaria,Pantalón,1,4475.47
+977,2025-05-12,C0053,Sur,Hogar,Almohada,1,5592.59
+377,2025-05-12,C0266,CABA,Deportes,Mochila,1,2862.47
+666,2025-05-13,C0056,CABA,Deportes,Mancuernas,2,12828.91
+1038,2025-05-13,C0025,Sur,Deportes,Pelota,1,11616.37
+652,2025-05-13,C0268,CABA,Electrónica,Cargador,1,18469.93
+727,2025-05-14,C0208,Norte,Juguetes,Auto a control,3,2951.97
+287,2025-05-14,C0106,GBA,Deportes,Bicicleta,2,10920.79
+275,2025-05-14,C0295,CABA,Indumentaria,Pantalón,2,9507.78
+1138,2025-05-14,C0084,Centro,Electrónica,Parlante BT,1,14849.91
+476,2025-05-14,C0097,Centro,Juguetes,Rompecabezas,1,5230.42
+959,2025-05-15,C0177,CABA,Deportes,Bicicleta,1,74106.44
+121,2025-05-15,C0146,Centro,Indumentaria,Remera,2,12000.13
+1163,2025-05-15,C0190,CABA,Indumentaria,Campera,1,9705.73
+107,2025-05-16,C0042,Centro,Indumentaria,Buzo,1,4953.8
+858,2025-05-16,C0024,CABA,Indumentaria,Remera,1,8188.92
+402,2025-05-16,C0182,Norte,Hogar,Lámpara,1,8464.24
+224,2025-05-16,C0285,Centro,Indumentaria,Remera,1,9337.4
+352,2025-05-17,C0209,Norte,Deportes,Colchoneta,3,12732.66
+635,2025-05-17,C0185,CABA,Deportes,Bicicleta,2,13524.92
+101,2025-05-17,C0101,Sur,Electrónica,Auriculares,1,8012.01
+1141,2025-05-17,C0111,CABA,Deportes,Pelota,1,9974.27
+868,2025-05-18,C0167,GBA,Electrónica,Parlante BT,1,18045.27
+36,2025-05-18,C0022,Centro,Electrónica,Auriculares,1,21221.59
+1069,2025-05-19,C0226,GBA,Deportes,Pelota,1,15337.49
+893,2025-05-19,C0034,Sur,Juguetes,Peluche,1,3650.23
+311,2025-05-20,C0025,GBA,Electrónica,Parlante BT,1,18716.35
+708,2025-05-20,C0272,Sur,Deportes,Colchoneta,1,7367.71
+1105,2025-05-21,C0245,Norte,Electrónica,Smartwatch,1,20879.48
+574,2025-05-22,C0238,CABA,Deportes,Pelota,1,11850.27
+890,2025-05-23,C0264,CABA,Indumentaria,Buzo,1,10162.49
+84,2025-05-23,C0171,Sur,Indumentaria,Remera,2,2375.46
+732,2025-05-23,C0113,CABA,Indumentaria,Campera,1,4754.42
+871,2025-05-24,C0032,GBA,Electrónica,Parlante BT,3,15112.12
+201,2025-05-24,C0017,Norte,Juguetes,Peluche,2,5209.51
+212,2025-05-25,C0243,CABA,Electrónica,Parlante BT,1,12617.37
+451,2025-05-25,C0250,Norte,Hogar,Termo,2,5044.28
+1102,2025-05-25,C0278,GBA,Hogar,Almohada,1,7262.1
+450,2025-05-26,C0166,Sur,Deportes,Mancuernas,2,8502.75
+851,2025-05-26,C0264,GBA,Hogar,Juego de sábanas,3,5700.21
+857,2025-05-26,C0124,CABA,Electrónica,Parlante BT,3,11263.33
+1060,2025-05-28,C0034,Centro,Deportes,Colchoneta,1,7537.01
+382,2025-05-28,C0023,Centro,Juguetes,Bloques,1,6937.91
+1071,2025-05-28,C0084,CABA,Juguetes,Bloques,1,5356.94
+750,2025-05-28,C0271,Norte,Hogar,Juego de sábanas,1,6871.0
+850,2025-05-29,C0062,GBA,Deportes,Mancuernas,1,9867.41
+1192,2025-05-29,C0213,Norte,Deportes,Pelota,1,125243.4
+56,2025-05-30,C0133,GBA,Indumentaria,Zapatillas,2,9497.97
+667,2025-05-30,C0168,CABA,Juguetes,Rompecabezas,1,6374.63
+597,2025-05-30,C0258,GBA,Electrónica,Auriculares,2,6061.73
+1111,2025-05-30,C0061,CABA,Indumentaria,Remera,1,5001.02
+105,2025-05-30,C0135,GBA,Juguetes,Muñeca,1,6619.01
+1015,2025-05-30,C0026,Sur,Indumentaria,Remera,2,9837.78
+1073,2025-05-30,C0019,CABA,Indumentaria,Remera,1,4396.14
+135,2025-05-30,C0090,CABA,Electrónica,Smartwatch,1,10654.77
+269,2025-05-30,C0263,Sur,Hogar,Termo,1,7705.27
+1012,2025-05-30,C0259,Sur,Deportes,Pelota,2,44750.44
+535,2025-05-31,C0121,CABA,Indumentaria,Remera,2,5374.17
+420,2025-05-31,C0129,Sur,Indumentaria,Zapatillas,1,3901.38
+820,2025-05-31,C0093,CABA,Electrónica,Smartwatch,3,7631.08
+489,2025-05-31,C0240,Norte,Deportes,Bicicleta,1,15930.33
+52,2025-06-01,C0227,GBA,Electrónica,Auriculares,1,145031.76
+677,2025-06-01,C0156,CABA,Electrónica,Parlante BT,1,16492.69
+26,2025-06-02,C0091,Sur,Juguetes,Peluche,2,2657.01
+332,2025-06-02,C0122,CABA,Electrónica,Mouse,1,13076.33
+978,2025-06-03,C0212,GBA,Hogar,Termo,1,7344.47
+183,2025-06-03,C0206,CABA,Electrónica,Auriculares,1,19654.26
+998,2025-06-03,C0054,Centro,Juguetes,Muñeca,1,3338.59
+1168,2025-06-03,C0139,Sur,Hogar,Lámpara,1,6773.09
+509,2025-06-04,C0285,CABA,Juguetes,Muñeca,2,2548.41
+669,2025-06-05,C0147,Sur,Electrónica,Parlante BT,1,19828.85
+550,2025-06-05,C0073,CABA,Electrónica,Auriculares,1,14266.32
+191,2025-06-06,C0072,GBA,Juguetes,Auto a control,1,7007.67
+432,2025-06-06,C0205,Norte,Juguetes,Muñeca,1,5722.44
+1034,2025-06-06,C0003,CABA,Indumentaria,Remera,1,11240.22
+1190,2025-06-06,C0044,Centro,Juguetes,Bloques,1,3604.58
+1005,2025-06-06,C0287,Centro,Juguetes,Auto a control,2,3352.54
+277,2025-06-07,C0048,CABA,Juguetes,Auto a control,1,4895.58
+1108,2025-06-07,C0174,CABA,Hogar,Termo,1,5521.76
+864,2025-06-08,C0263,Sur,Deportes,Mancuernas,1,10488.57
+421,2025-06-08,C0281,Sur,Electrónica,Auriculares,2,11461.97
+1130,2025-06-08,C0186,GBA,Hogar,Termo,1,5879.73
+836,2025-06-08,C0279,Sur,Deportes,Pelota,2,9170.33
+143,2025-06-08,C0045,Sur,Juguetes,Auto a control,2,5904.56
+815,2025-06-09,C0203,CABA,Electrónica,Mouse,1,10868.73
+357,2025-06-10,C0086,Centro,Electrónica,Auriculares,1,22927.79
+215,2025-06-10,C0181,CABA,Indumentaria,Pantalón,1,6627.84
+302,2025-06-10,C0021,CABA,Indumentaria,Remera,1,3142.12
+1104,2025-06-10,C0161,CABA,Indumentaria,Remera,1,7368.49
+980,2025-06-11,C0028,Sur,Indumentaria,Campera,1,8847.27
+184,2025-06-11,C0094,GBA,Hogar,Juego de sábanas,1,7979.25
+165,2025-06-11,C0015,Centro,Hogar,Termo,1,9123.65
+1067,2025-06-11,C0280,Sur,Deportes,Colchoneta,1,8116.33
+843,2025-06-12,C0204,CABA,Deportes,Mancuernas,1,12815.84
+424,2025-06-12,C0250,GBA,Electrónica,Mouse,1,18028.83
+1113,2025-06-12,C0295,GBA,Hogar,Termo,3,5854.47
+429,2025-06-13,C0040,CABA,Indumentaria,Buzo,1,6440.65
+495,2025-06-13,C0077,CABA,Indumentaria,Remera,1,10861.5
+945,2025-06-13,C0136,Centro,Electrónica,Auriculares,1,10274.82
+300,2025-06-13,C0182,CABA,Electrónica,Cargador,1,9012.48
+892,2025-06-13,C0144,GBA,Deportes,Pelota,1,10943.29
+1109,2025-06-13,C0272,CABA,Indumentaria,Buzo,2,9408.24
+372,2025-06-14,C0058,CABA,Hogar,Sartén,1,4855.04
+486,2025-06-15,C0287,GBA,Hogar,Juego de sábanas,2,5681.48
+378,2025-06-15,C0016,CABA,Juguetes,Muñeca,1,4919.7
+1172,2025-06-16,C0042,Sur,Electrónica,Auriculares,2,15441.42
+1028,2025-06-16,C0055,CABA,Juguetes,Rompecabezas,1,5601.91
+448,2025-06-16,C0106,CABA,Deportes,Colchoneta,1,18039.06
+103,2025-06-16,C0170,CABA,Electrónica,Auriculares,1,15728.66
+729,2025-06-16,C0149,Sur,Juguetes,Muñeca,2,4712.62
+1059,2025-06-17,C0141,GBA,Indumentaria,Zapatillas,1,7765.65
+791,2025-06-17,C0107,Sur,Hogar,Almohada,1,4854.12
+14,2025-06-17,C0120,Sur,Electrónica,Parlante BT,1,15721.59
+1154,2025-06-18,C0167,CABA,Electrónica,Parlante BT,2,19455.15
+1052,2025-06-18,C0287,CABA,Indumentaria,Buzo,1,2580.04
+508,2025-06-19,C0265,GBA,Electrónica,Cargador,1,12551.77
+112,2025-06-19,C0053,CABA,Indumentaria,Remera,2,6871.03
+693,2025-06-19,C0194,GBA,Juguetes,Rompecabezas,1,6163.01
+446,2025-06-20,C0153,Sur,Juguetes,Bloques,1,4483.84
+1054,2025-06-21,C0105,CABA,Deportes,Pelota,1,12520.08
+1062,2025-06-21,C0136,CABA,Hogar,Almohada,1,4107.96
+314,2025-06-21,C0024,GBA,Juguetes,Muñeca,1,4999.09
+463,2025-06-22,C0129,Sur,Indumentaria,Zapatillas,1,8137.25
+435,2025-06-23,C0110,CABA,Deportes,Mochila,1,16863.59
+906,2025-06-23,C0139,CABA,Hogar,Sartén,1,8568.53
+817,2025-06-23,C0108,GBA,Electrónica,Cargador,1,11308.17
+1009,2025-06-23,C0119,GBA,Juguetes,Rompecabezas,1,3974.16
+673,2025-06-23,C0140,CABA,Juguetes,Auto a control,1,4564.51
+458,2025-06-24,C0068,CABA,Hogar,Almohada,1,4035.78
+530,2025-06-24,C0044,Sur,Electrónica,Smartwatch,2,12800.24
+380,2025-06-24,C0071,Centro,Juguetes,Bloques,1,7290.06
+758,2025-06-24,C0201,Centro,Juguetes,Peluche,1,4142.47
+899,2025-06-24,C0016,CABA,Deportes,Mancuernas,1,13271.68
+504,2025-06-24,C0158,CABA,Deportes,Pelota,2,11116.05
+705,2025-06-24,C0265,GBA,Indumentaria,Campera,1,8369.32
+1,2025-06-25,C0122,CABA,Indumentaria,Pantalón,1,5250.15
+133,2025-06-25,C0299,CABA,Electrónica,Parlante BT,1,15193.17
+205,2025-06-26,C0075,GBA,Juguetes,Rompecabezas,1,5103.39
+768,2025-06-26,C0058,CABA,Indumentaria,Remera,1,5686.74
+228,2025-06-26,C0028,CABA,Indumentaria,Zapatillas,1,10791.23
+1065,2025-06-26,C0022,Sur,Indumentaria,Zapatillas,1,4338.4
+209,2025-06-26,C0131,GBA,Electrónica,Parlante BT,1,12780.18
+603,2025-06-27,C0191,Centro,Indumentaria,Zapatillas,1,12209.86
+745,2025-06-27,C0148,Norte,Hogar,Juego de sábanas,1,8406.86
+828,2025-06-27,C0253,GBA,Deportes,Pelota,1,13169.71
+844,2025-06-27,C0169,Sur,Juguetes,Muñeca,1,4533.15
+334,2025-06-27,C0097,CABA,Indumentaria,Zapatillas,1,6901.61
+896,2025-06-27,C0144,CABA,Deportes,Pelota,2,10308.84
+227,2025-06-28,C0139,CABA,Juguetes,Auto a control,1,5512.89
+383,2025-06-28,C0272,Centro,Electrónica,Cargador,1,5475.44
+348,2025-06-28,C0184,Centro,Juguetes,Bloques,1,3349.14
+618,2025-06-30,C0295,CABA,Hogar,Sartén,1,3520.38
+481,2025-06-30,C0132,Centro,Juguetes,Auto a control,1,7254.09
+413,2025-06-30,C0127,Centro,Deportes,Bicicleta,2,15535.47
+790,2025-06-30,C0218,CABA,Deportes,Bicicleta,1,13361.74
+254,2025-06-30,C0132,CABA,Electrónica,Cargador,1,15522.36
+111,2025-06-30,C0020,CABA,Electrónica,Cargador,1,16691.33
+259,2025-07-01,C0094,Norte,Deportes,Mancuernas,1,11566.79
+363,2025-07-01,C0167,Norte,Hogar,Juego de sábanas,1,7885.71
+1118,2025-07-01,C0063,CABA,Electrónica,Parlante BT,1,118255.28
+1173,2025-07-02,C0193,,Hogar,Almohada,1,6194.65
+578,2025-07-02,C0227,Norte,Electrónica,Auriculares,2,16587.23
+132,2025-07-02,C0008,Sur,Deportes,Colchoneta,2,6619.43
+1139,2025-07-03,C0105,GBA,Electrónica,Auriculares,1,4649.55
+1004,2025-07-03,C0055,CABA,Juguetes,Auto a control,2,5388.72
+27,2025-07-03,C0130,Norte,Electrónica,Smartwatch,1,17716.34
+291,2025-07-03,C0135,GBA,Indumentaria,Pantalón,3,5971.26
+148,2025-07-03,C0044,Norte,Indumentaria,Campera,1,4267.75
+514,2025-07-03,C0289,Norte,Hogar,Lámpara,1,2278.28
+174,2025-07-03,C0217,CABA,Deportes,Mochila,3,15916.85
+268,2025-07-04,C0091,Centro,Electrónica,Mouse,2,13864.85
+258,2025-07-04,C0025,CABA,Indumentaria,Campera,1,4358.36
+1179,2025-07-04,C0226,Norte,Electrónica,Cargador,2,23158.08
+776,2025-07-04,C0237,GBA,Deportes,Mancuernas,1,20374.69
+866,2025-07-05,C0200,Sur,Hogar,Lámpara,1,7826.82
+66,2025-07-05,C0250,GBA,Indumentaria,Buzo,1,7551.66
+8,2025-07-05,C0195,CABA,Hogar,Sartén,1,599.43
+153,2025-07-06,C0105,CABA,Hogar,Termo,1,3086.84
+469,2025-07-07,C0189,GBA,Juguetes,Rompecabezas,1,4193.65
+687,2025-07-08,C0032,Sur,Hogar,Termo,1,5480.81
+539,2025-07-09,C0090,Centro,Indumentaria,Pantalón,1,9729.79
+30,2025-07-09,C0119,GBA,Hogar,Sartén,2,6721.0
+848,2025-07-10,C0246,GBA,Hogar,Almohada,1,6373.61
+294,2025-07-10,C0078,CABA,Hogar,Lámpara,2,2960.01
+117,2025-07-10,C0278,Centro,Juguetes,Bloques,1,5380.61
+955,2025-07-11,C0165,CABA,Electrónica,Cargador,2,19656.31
+1107,2025-07-11,C0024,CABA,Hogar,Termo,1,5686.62
+1047,2025-07-11,C0220,GBA,Deportes,Bicicleta,1,9012.39
+656,2025-07-11,C0194,Centro,Deportes,Bicicleta,1,14955.16
+725,2025-07-11,C0121,GBA,Juguetes,Bloques,2,6067.78
+23,2025-07-11,C0069,Sur,Hogar,Almohada,1,5331.0
+658,2025-07-12,C0298,CABA,Deportes,Colchoneta,2,6582.25
+42,2025-07-12,C0188,CABA,Hogar,Termo,1,5078.48
+838,2025-07-12,C0087,CABA,Indumentaria,Pantalón,1,7130.12
+581,2025-07-13,C0198,Centro,Indumentaria,Campera,1,7679.44
+350,2025-07-14,C0279,Centro,Hogar,Almohada,2,4701.34
+678,2025-07-14,C0253,Centro,Hogar,Juego de sábanas,1,7878.18
+336,2025-07-15,C0201,Centro,Deportes,Colchoneta,1,14066.96
+38,2025-07-15,C0261,Centro,Indumentaria,Campera,2,7857.9
+361,2025-07-15,C0011,GBA,Juguetes,Muñeca,1,3406.17
+1137,2025-07-15,C0072,Norte,Indumentaria,Remera,2,9423.22
+399,2025-07-15,C0111,CABA,Electrónica,Mouse,1,27540.04
+1043,2025-07-15,C0220,GBA,Electrónica,Mouse,2,11122.16
+966,2025-07-16,C0149,CABA,Electrónica,Auriculares,1,17117.96
+2,2025-07-16,C0226,CABA,Electrónica,Mouse,1,19421.7
+951,2025-07-16,C0232,CABA,Indumentaria,Pantalón,1,5853.88
+943,2025-07-17,C0291,Centro,Juguetes,Auto a control,2,5139.99
+374,2025-07-17,C0106,Centro,Deportes,Pelota,2,8538.34
+109,2025-07-17,C0275,CABA,Juguetes,Auto a control,3,4366.03
+304,2025-07-18,C0078,CABA,Deportes,Colchoneta,1,10860.55
+104,2025-07-18,C0160,CABA,Indumentaria,Campera,1,8203.96
+842,2025-07-18,C0182,Sur,Juguetes,Rompecabezas,1,5078.03
+961,2025-07-19,C0117,Sur,Indumentaria,Zapatillas,1,
+316,2025-07-19,C0023,GBA,Hogar,Juego de sábanas,1,3441.56
+151,2025-07-19,C0154,GBA,Electrónica,Auriculares,1,16674.18
+619,2025-07-19,C0092,Centro,Deportes,Mochila,1,12654.59
+683,2025-07-19,C0153,Norte,Deportes,Colchoneta,1,15886.79
+528,2025-07-20,C0174,Norte,Electrónica,Smartwatch,1,16944.18
+972,2025-07-20,C0231,Sur,Deportes,Mochila,2,5129.7
+909,2025-07-20,C0052,Centro,Indumentaria,Campera,1,9051.29
+1100,2025-07-21,C0164,CABA,Indumentaria,Remera,1,
+33,2025-07-21,C0154,GBA,Indumentaria,Buzo,1,10268.66
+810,2025-07-22,C0090,GBA,Electrónica,Smartwatch,1,12548.09
+1115,2025-07-22,C0218,CABA,Electrónica,Cargador,1,17255.12
+599,2025-07-22,C0270,CABA,Juguetes,Rompecabezas,2,4393.78
+762,2025-07-22,C0077,CABA,Deportes,Pelota,1,13557.65
+341,2025-07-23,C0252,Sur,Juguetes,Muñeca,1,5661.62
+722,2025-07-23,C0288,GBA,Deportes,Mancuernas,1,11251.83
+74,2025-07-23,C0262,GBA,Hogar,Sartén,1,4397.7
+282,2025-07-25,C0024,CABA,Hogar,Almohada,1,7508.74
+1124,2025-07-25,C0280,CABA,Juguetes,Auto a control,1,7251.1
+293,2025-07-26,C0212,Centro,Juguetes,Rompecabezas,2,1726.7
+534,2025-07-26,C0175,Norte,Deportes,Colchoneta,1,13777.61
+257,2025-07-27,C0125,CABA,Deportes,Pelota,1,9388.53
+327,2025-07-27,C0071,CABA,Juguetes,Bloques,1,6982.18
+516,2025-07-27,C0124,GBA,Electrónica,Auriculares,1,20474.27
+665,2025-07-27,C0107,Centro,Hogar,Almohada,1,6997.07
+968,2025-07-28,C0191,CABA,Indumentaria,Campera,1,8435.08
+1178,2025-07-28,C0044,GBA,Electrónica,Smartwatch,1,15141.55
+181,2025-07-28,C0129,CABA,Deportes,Bicicleta,1,9559.49
+1008,2025-07-28,C0263,Norte,Hogar,Termo,1,5530.27
+734,2025-07-29,C0140,Sur,Deportes,Pelota,2,13563.67
+108,2025-07-29,C0270,CABA,Indumentaria,Pantalón,1,4568.39
+775,2025-07-29,C0091,GBA,Juguetes,Bloques,1,3458.97
+1170,2025-07-29,C0059,Sur,Electrónica,Mouse,1,13060.81
+1184,2025-07-29,C0084,CABA,Electrónica,Cargador,1,21451.99
+203,2025-07-30,C0236,Centro,Electrónica,Cargador,1,10695.01
+752,2025-07-30,C0105,Centro,Indumentaria,Buzo,1,6807.71
+952,2025-07-30,C0223,GBA,Deportes,Mancuernas,1,14498.1
+604,2025-07-30,C0020,CABA,Electrónica,Parlante BT,1,15155.17
+5,2025-07-31,C0158,CABA,Deportes,Mancuernas,1,13119.64
+971,2025-07-31,C0241,CABA,Indumentaria,Campera,1,12044.81
+1044,2025-07-31,C0074,GBA,Hogar,Sartén,1,4736.12
+232,2025-07-31,C0244,CABA,Electrónica,Mouse,1,18836.97
+346,2025-07-31,C0256,CABA,Deportes,Colchoneta,2,13615.2
+1075,2025-08-01,C0070,CABA,Electrónica,Mouse,1,17865.29
+694,2025-08-01,C0241,CABA,Electrónica,Parlante BT,1,16356.09
+1021,2025-08-01,C0252,CABA,Indumentaria,Campera,1,10580.97
+305,2025-08-01,C0168,GBA,Indumentaria,Campera,1,8328.99
+659,2025-08-02,C0002,CABA,Indumentaria,Pantalón,1,7027.65
+479,2025-08-02,C0060,Sur,Electrónica,Smartwatch,1,17355.81
+118,2025-08-03,C0154,CABA,Electrónica,Smartwatch,2,13770.0
+884,2025-08-03,C0186,Norte,Hogar,Juego de sábanas,1,5836.23
+437,2025-08-03,C0011,Centro,Juguetes,Rompecabezas,1,4320.66
+1169,2025-08-03,C0022,CABA,Hogar,Lámpara,1,8415.0
+461,2025-08-04,C0051,Norte,Juguetes,Auto a control,1,6485.32
+782,2025-08-04,C0032,Sur,Electrónica,Mouse,1,10727.93
+164,2025-08-04,C0205,CABA,Deportes,Pelota,1,10133.12
+96,2025-08-04,C0277,GBA,Juguetes,Bloques,2,7131.0
+389,2025-08-05,C0056,Centro,Hogar,Termo,1,2855.1
+596,2025-08-06,C0006,CABA,Juguetes,Bloques,2,6119.99
+910,2025-08-06,C0251,Norte,Hogar,Juego de sábanas,1,5723.25
+339,2025-08-07,C0117,CABA,Indumentaria,Zapatillas,1,7212.03
+13,2025-08-07,C0062,CABA,Electrónica,Mouse,1,3258.94
+663,2025-08-07,C0068,CABA,Hogar,Lámpara,1,8327.68
+873,2025-08-07,C0020,Centro,Indumentaria,Pantalón,1,5455.77
+793,2025-08-07,C0056,CABA,Deportes,Pelota,1,12590.25
+1158,2025-08-08,C0014,Sur,Juguetes,Rompecabezas,1,4259.79
+59,2025-08-08,C0007,GBA,Indumentaria,Zapatillas,1,8377.89
+586,2025-08-08,C0187,Sur,Juguetes,Rompecabezas,1,5973.94
+1160,2025-08-09,C0089,CABA,Deportes,Bicicleta,1,7313.46
+664,2025-08-10,C0156,CABA,Deportes,Colchoneta,1,11894.67
+718,2025-08-10,C0170,Sur,Indumentaria,Remera,1,8112.15
+1068,2025-08-10,C0032,Centro,Electrónica,Smartwatch,1,20161.99
+557,2025-08-10,C0160,CABA,Indumentaria,Pantalón,3,6536.62
+904,2025-08-10,C0242,CABA,Electrónica,Auriculares,2,8145.25
+1174,2025-08-10,C0071,GBA,Juguetes,Peluche,1,4196.36
+1142,2025-08-10,C0017,CABA,Deportes,Bicicleta,1,10001.92
+983,2025-08-11,C0051,CABA,Electrónica,Cargador,1,6876.7
+223,2025-08-12,C0241,Sur,Deportes,Colchoneta,1,9227.02
+992,2025-08-12,C0019,Centro,Indumentaria,Buzo,1,10415.44
+935,2025-08-12,C0028,CABA,Indumentaria,Campera,1,10688.41
+561,2025-08-12,C0199,GBA,Electrónica,Parlante BT,1,13395.44
+1135,2025-08-13,C0064,CABA,Electrónica,Smartwatch,1,15417.51
+55,2025-08-13,C0257,CABA,Deportes,Mochila,2,17607.59
+1094,2025-08-13,C0274,CABA,Hogar,Lámpara,1,2577.72
+141,2025-08-14,C0103,Sur,Hogar,Almohada,1,10905.92
+953,2025-08-14,C0220,Norte,Hogar,Juego de sábanas,2,4866.34
+741,2025-08-14,C0296,CABA,Deportes,Colchoneta,1,11177.12
+1140,2025-08-14,C0275,CABA,Juguetes,Muñeca,1,1044.6
+1151,2025-08-14,C0187,GBA,Indumentaria,Zapatillas,1,7026.7
+335,2025-08-15,C0240,CABA,Hogar,Sartén,1,7251.74
+492,2025-08-15,C0256,Centro,Electrónica,Parlante BT,1,10262.25
+609,2025-08-15,C0218,Centro,Hogar,Lámpara,1,6728.63
+428,2025-08-15,C0182,CABA,Juguetes,Auto a control,1,6475.86
+119,2025-08-15,C0230,CABA,Indumentaria,Buzo,1,6236.52
+894,2025-08-15,C0038,Sur,Hogar,Termo,2,8544.1
+323,2025-08-16,C0241,Centro,Indumentaria,Pantalón,1,6349.05
+1063,2025-08-18,C0197,Centro,Electrónica,Smartwatch,2,11315.59
+67,2025-08-18,C0200,GBA,Indumentaria,Campera,1,10585.15
+654,2025-08-18,C0249,Sur,Hogar,Juego de sábanas,2,1566.41
+624,2025-08-18,C0160,CABA,Hogar,Almohada,1,9122.0
+155,2025-08-19,C0271,Sur,Deportes,Mancuernas,1,13839.81
+175,2025-08-19,C0170,Centro,Juguetes,Auto a control,1,4726.96
+242,2025-08-19,C0244,GBA,Electrónica,Parlante BT,1,12211.16
+939,2025-08-19,C0117,GBA,Juguetes,Auto a control,2,3838.16
+583,2025-08-20,C0235,Norte,Deportes,Mancuernas,2,10638.6
+204,2025-08-20,C0153,CABA,Electrónica,Smartwatch,1,13564.02
+1061,2025-08-20,C0147,GBA,Juguetes,Auto a control,1,6026.71
+565,2025-08-20,C0057,GBA,Indumentaria,Pantalón,2,5955.07
+880,2025-08-21,C0101,Centro,Hogar,Termo,1,11401.8
+840,2025-08-21,C0251,Centro,Deportes,Mochila,1,12643.15
+1133,2025-08-21,C0156,Sur,Electrónica,Cargador,1,16548.05
+49,2025-08-22,C0295,CABA,Juguetes,Bloques,1,5762.09
+138,2025-08-22,C0051,GBA,Juguetes,Auto a control,2,4957.82
+688,2025-08-22,C0084,Centro,Indumentaria,Campera,1,14501.8
+80,2025-08-22,C0179,GBA,Hogar,Lámpara,1,5485.34
+403,2025-08-23,C0244,CABA,Hogar,Almohada,1,7589.68
+419,2025-08-23,C0063,CABA,Deportes,Pelota,3,9732.4
+125,2025-08-23,C0114,Norte,Deportes,Mochila,1,6982.4
+921,2025-08-23,C0241,GBA,Indumentaria,Pantalón,3,9059.41
+1147,2025-08-24,C0098,CABA,Hogar,Termo,2,6860.61
+580,2025-08-24,C0285,CABA,Electrónica,Parlante BT,1,15492.6
+990,2025-08-24,C0088,Centro,Electrónica,Smartwatch,1,14572.52
+598,2025-08-25,C0152,Sur,Deportes,Mochila,1,8765.95
+792,2025-08-26,C0005,CABA,Juguetes,Peluche,1,3880.71
+359,2025-08-26,C0158,GBA,Indumentaria,Zapatillas,2,8349.02
+313,2025-08-26,C0275,GBA,Juguetes,Rompecabezas,1,5154.79
+1167,2025-08-26,C0091,Sur,Deportes,Mochila,1,13137.34
+668,2025-08-27,C0196,Sur,Juguetes,Peluche,1,5671.57
+280,2025-08-27,C0271,Sur,Indumentaria,Buzo,1,7255.92
+1076,2025-08-27,C0128,Centro,Electrónica,Mouse,1,19845.53
+740,2025-08-27,C0070,CABA,Hogar,Lámpara,1,3908.42
+829,2025-08-27,C0226,Sur,Electrónica,Cargador,1,13045.65
+996,2025-08-28,C0075,CABA,Hogar,Sartén,1,3231.05
+1144,2025-08-28,C0021,Norte,Hogar,Termo,1,7481.06
+662,2025-08-28,C0082,CABA,Indumentaria,Pantalón,1,4046.05
+783,2025-08-29,C0208,CABA,Juguetes,Peluche,1,2112.99
+773,2025-08-29,C0264,GBA,Indumentaria,Remera,1,9025.57
+460,2025-08-29,C0243,CABA,Deportes,Bicicleta,3,8148.15
+200,2025-08-30,C0244,CABA,Hogar,Lámpara,3,6794.68
+297,2025-08-30,C0085,GBA,Juguetes,Bloques,1,5564.06
+772,2025-08-30,C0048,Centro,Hogar,Termo,1,6211.0
+779,2025-08-31,C0120,GBA,Electrónica,Parlante BT,3,19104.41
+861,2025-08-31,C0208,GBA,Juguetes,Peluche,1,5824.74
+439,2025-09-01,C0091,CABA,Indumentaria,Campera,1,9273.9
+987,2025-09-02,C0042,CABA,Juguetes,Bloques,1,5769.99
+571,2025-09-03,C0183,GBA,Deportes,Bicicleta,1,14781.21
+455,2025-09-03,C0278,Norte,Deportes,Mancuernas,1,11452.33
+846,2025-09-04,C0258,Sur,Indumentaria,Buzo,1,10987.18
+278,2025-09-04,C0118,Centro,Deportes,Mancuernas,1,8644.4
+193,2025-09-05,C0027,CABA,Hogar,Juego de sábanas,1,5207.85
+54,2025-09-05,C0046,Centro,Juguetes,Rompecabezas,1,1806.87
+147,2025-09-05,C0260,Sur,Juguetes,Peluche,1,6022.77
+273,2025-09-05,C0178,CABA,Hogar,Sartén,1,7667.73
+1070,2025-09-06,C0287,GBA,Electrónica,Auriculares,1,8976.3
+547,2025-09-06,C0094,,Indumentaria,Pantalón,1,5985.62
+564,2025-09-06,C0147,Sur,Deportes,Colchoneta,1,12328.15
+818,2025-09-07,C0127,GBA,Electrónica,Mouse,1,36060.83
+930,2025-09-07,C0172,CABA,Indumentaria,Remera,1,7779.39
+546,2025-09-07,C0144,Sur,Juguetes,Bloques,2,5367.62
+837,2025-09-08,C0139,CABA,Electrónica,Cargador,1,19539.14
+353,2025-09-08,C0160,Centro,Electrónica,Parlante BT,1,18787.12
+447,2025-09-08,C0275,CABA,Electrónica,Cargador,1,13919.2
+761,2025-09-08,C0020,CABA,Hogar,Sartén,1,9399.86
+93,2025-09-08,C0053,CABA,Deportes,Colchoneta,1,84076.67
+19,2025-09-08,C0183,CABA,Deportes,Colchoneta,1,7084.52
+796,2025-09-08,C0185,,Hogar,Sartén,1,8809.23
+29,2025-09-09,C0211,CABA,Deportes,Pelota,1,12191.77
+686,2025-09-09,C0068,GBA,Electrónica,Mouse,2,7336.4
+245,2025-09-09,C0047,Centro,Hogar,Juego de sábanas,2,5680.55
+45,2025-09-10,C0029,Sur,Electrónica,Parlante BT,1,15293.66
+116,2025-09-10,C0083,Sur,Juguetes,Bloques,2,4308.6
+649,2025-09-10,C0139,Centro,Electrónica,Mouse,1,11589.44
+315,2025-09-11,C0281,Centro,Hogar,Almohada,1,7965.38
+358,2025-09-12,C0078,CABA,Electrónica,Parlante BT,1,20044.43
+928,2025-09-12,C0259,CABA,Juguetes,Rompecabezas,1,6463.72
+195,2025-09-12,C0205,Norte,Juguetes,Muñeca,2,5835.12
+457,2025-09-12,C0072,CABA,Juguetes,Bloques,1,6939.57
+560,2025-09-12,C0022,GBA,Hogar,Juego de sábanas,2,7131.55
+470,2025-09-13,C0290,Norte,Hogar,Termo,2,4489.35
+887,2025-09-13,C0079,Norte,Indumentaria,Remera,3,7999.33
+697,2025-09-13,C0179,Norte,Juguetes,Peluche,1,2698.4
+932,2025-09-13,C0130,Norte,Deportes,Mochila,1,6087.94
+185,2025-09-13,C0210,GBA,Electrónica,Parlante BT,1,10581.6
+834,2025-09-14,C0211,CABA,Juguetes,Peluche,1,4143.75
+41,2025-09-15,C0014,CABA,Deportes,Bicicleta,2,14227.65
+519,2025-09-15,C0008,CABA,Hogar,Sartén,1,5624.72
+774,2025-09-16,C0254,Sur,Deportes,Colchoneta,1,8889.03
+502,2025-09-16,C0225,Norte,Electrónica,Parlante BT,1,
+1011,2025-09-16,C0019,GBA,Deportes,Pelota,1,17112.92
+841,2025-09-16,C0073,Sur,Indumentaria,Zapatillas,1,6572.83
+704,2025-09-16,C0039,GBA,Electrónica,Auriculares,1,10824.9
+406,2025-09-16,C0005,GBA,Juguetes,Auto a control,1,3640.25
+957,2025-09-17,C0168,Centro,Indumentaria,Buzo,1,4583.39
+262,2025-09-18,C0264,Norte,Deportes,Mochila,2,12422.49
+136,2025-09-18,C0246,Centro,Hogar,Lámpara,1,6287.23
+35,2025-09-18,C0143,GBA,Electrónica,Mouse,1,12381.19
+700,2025-09-18,C0285,Norte,Juguetes,Bloques,3,2739.48
+91,2025-09-18,C0224,Centro,Juguetes,Auto a control,1,4949.28
+456,2025-09-18,C0135,CABA,Hogar,Juego de sábanas,1,6878.99
+735,2025-09-19,C0104,CABA,Indumentaria,Pantalón,2,7968.41
+1191,2025-09-19,C0075,GBA,Indumentaria,Pantalón,1,10273.16
+696,2025-09-19,C0050,Sur,Hogar,Sartén,2,4007.58
+140,2025-09-20,C0138,CABA,Hogar,Almohada,1,5931.39
+501,2025-09-20,C0223,Sur,Juguetes,Peluche,1,5548.89
+318,2025-09-21,C0160,Sur,Juguetes,Rompecabezas,2,6293.71
+646,2025-09-21,C0111,CABA,Deportes,Bicicleta,1,8513.5
+707,2025-09-22,C0154,CABA,Deportes,Pelota,2,10745.94
+1051,2025-09-22,C0081,GBA,Hogar,Termo,2,4274.99
+326,2025-09-22,C0151,CABA,Deportes,Mancuernas,1,12963.68
+176,2025-09-23,C0250,Centro,Indumentaria,Pantalón,1,
+299,2025-09-23,C0118,CABA,Deportes,Mochila,1,17228.28
+717,2025-09-23,C0047,,Indumentaria,Buzo,2,5517.31
+634,2025-09-24,C0191,Centro,Electrónica,Auriculares,1,8206.57
+898,2025-09-24,C0031,GBA,Electrónica,Mouse,1,9592.45
+189,2025-09-24,C0248,Sur,Juguetes,Muñeca,1,6088.81
+390,2025-09-25,C0096,CABA,Juguetes,Auto a control,1,3480.18
+309,2025-09-25,C0300,GBA,Deportes,Mochila,1,10514.26
+261,2025-09-26,C0294,GBA,Indumentaria,Remera,2,9399.93
+1162,2025-09-26,C0255,CABA,Indumentaria,Buzo,1,6311.73
+370,2025-09-26,C0118,Centro,Indumentaria,Campera,1,8674.44
+333,2025-09-26,C0077,Sur,Electrónica,Auriculares,1,21755.54
+177,2025-09-27,C0168,GBA,Deportes,Mancuernas,1,15745.92
+1029,2025-09-27,C0266,Sur,Juguetes,Rompecabezas,1,2600.6
+1143,2025-09-27,C0013,GBA,Deportes,Bicicleta,2,6733.13
+1030,2025-09-27,C0013,CABA,Electrónica,Auriculares,1,28743.4
+1181,2025-09-28,C0141,GBA,Deportes,Mochila,1,5904.11
+1031,2025-09-28,C0044,Sur,Deportes,Bicicleta,1,7406.78
+1099,2025-09-29,C0210,CABA,Deportes,Mochila,1,13466.48
+1007,2025-09-29,C0105,Norte,Electrónica,Smartwatch,1,12033.54
+1198,2025-09-29,C0184,CABA,Indumentaria,Buzo,1,5514.39
+759,2025-09-29,C0146,CABA,Hogar,Termo,1,3290.61
+1048,2025-09-30,C0157,GBA,Deportes,Colchoneta,1,14554.13
+76,2025-09-30,C0203,Norte,Hogar,Almohada,1,4990.99
+644,2025-09-30,C0225,Sur,Hogar,Termo,1,8778.1
+757,2025-09-30,C0082,GBA,Deportes,Mancuernas,1,8781.95
+674,2025-10-01,C0222,GBA,Deportes,Bicicleta,1,17195.98
+1119,2025-10-01,C0155,CABA,Hogar,Termo,1,3822.3
+608,2025-10-01,C0139,CABA,Electrónica,Parlante BT,3,10122.95
+948,2025-10-01,C0130,GBA,Deportes,Colchoneta,1,14532.87
+328,2025-10-02,C0148,GBA,Deportes,Mochila,1,14399.21
+751,2025-10-02,C0260,Norte,Electrónica,Parlante BT,1,13994.83
+511,2025-10-02,C0274,Centro,Deportes,Mancuernas,1,16724.15
+267,2025-10-02,C0197,CABA,Hogar,Juego de sábanas,1,5455.97
+1092,2025-10-02,C0096,CABA,Hogar,Sartén,1,5863.1
+21,2025-10-03,C0194,CABA,Indumentaria,Zapatillas,1,9152.84
+62,2025-10-03,C0135,Sur,Indumentaria,Campera,1,4129.36
+320,2025-10-03,C0063,Centro,Juguetes,Auto a control,1,4714.63
+1132,2025-10-04,C0003,GBA,Electrónica,Mouse,2,13331.88
+1020,2025-10-04,C0149,GBA,Indumentaria,Remera,1,9411.95
+265,2025-10-04,C0292,CABA,Deportes,Mochila,3,9768.51
+86,2025-10-04,C0135,Norte,Juguetes,Rompecabezas,1,5215.42
+756,2025-10-05,C0254,Sur,Juguetes,Auto a control,2,5241.66
+1081,2025-10-06,C0239,CABA,Electrónica,Auriculares,1,13310.69
+628,2025-10-06,C0006,Sur,Juguetes,Peluche,1,2704.02
+831,2025-10-07,C0126,CABA,Hogar,Sartén,1,3793.96
+47,2025-10-07,C0236,CABA,Hogar,Almohada,1,6207.52
+520,2025-10-08,C0128,CABA,Indumentaria,Campera,1,8110.29
+657,2025-10-08,C0179,Sur,Indumentaria,Buzo,1,7017.25
+681,2025-10-08,C0228,Centro,Deportes,Bicicleta,1,8215.8
+671,2025-10-09,C0049,GBA,Electrónica,Auriculares,2,13636.76
+487,2025-10-09,C0092,GBA,Electrónica,Cargador,1,14298.33
+540,2025-10-09,C0048,CABA,Electrónica,Smartwatch,1,15606.29
+692,2025-10-09,C0280,Centro,Electrónica,Auriculares,1,14607.08
+1079,2025-10-10,C0295,GBA,Juguetes,Auto a control,2,5798.96
+114,2025-10-10,C0169,Norte,Hogar,Almohada,1,11246.85
+594,2025-10-10,C0091,CABA,Indumentaria,Buzo,1,9799.36
+589,2025-10-10,C0124,Sur,Hogar,Lámpara,1,5412.81
+713,2025-10-11,C0052,GBA,Hogar,Lámpara,1,4348.99
+462,2025-10-12,C0174,Norte,Juguetes,Muñeca,1,6135.19
+100,2025-10-13,C0135,CABA,Indumentaria,Buzo,2,5365.21
+1098,2025-10-14,C0123,Centro,Deportes,Mochila,1,14823.21
+588,2025-10-14,C0265,Sur,Juguetes,Auto a control,1,5594.19
+65,2025-10-14,C0105,Norte,Electrónica,Mouse,1,18638.94
+180,2025-10-15,C0101,Centro,Deportes,Mancuernas,1,14666.82
+506,2025-10-15,C0015,Centro,Indumentaria,Buzo,2,11224.72
+830,2025-10-15,C0099,Centro,Indumentaria,Buzo,1,13624.14
+926,2025-10-15,C0193,CABA,Electrónica,Smartwatch,1,9988.6
+814,2025-10-15,C0207,Sur,Hogar,Sartén,1,6786.13
+1093,2025-10-15,C0300,GBA,Juguetes,Muñeca,1,7449.53
+162,2025-10-16,C0150,Norte,Hogar,Sartén,1,5221.48
+716,2025-10-17,C0099,GBA,Deportes,Colchoneta,1,5902.71
+31,2025-10-18,C0076,CABA,Electrónica,Cargador,1,18661.18
+396,2025-10-18,C0274,CABA,Deportes,Mochila,1,7323.56
+392,2025-10-18,C0075,Sur,Electrónica,Auriculares,2,18173.57
+172,2025-10-18,C0294,Norte,Deportes,Mancuernas,1,13933.86
+50,2025-10-19,C0247,Centro,Juguetes,Bloques,1,5054.11
+433,2025-10-19,C0080,Norte,Deportes,Mancuernas,1,19002.49
+689,2025-10-19,C0096,CABA,Electrónica,Parlante BT,1,11847.03
+533,2025-10-19,C0264,GBA,Electrónica,Smartwatch,1,14491.05
+369,2025-10-20,C0264,Sur,Deportes,Mancuernas,1,14147.75
+523,2025-10-20,C0231,GBA,Deportes,Bicicleta,1,13790.38
+933,2025-10-20,C0169,Norte,Hogar,Juego de sábanas,2,3770.06
+464,2025-10-20,C0138,Centro,Deportes,Mancuernas,1,13683.81
+1000,2025-10-20,C0243,Sur,Hogar,Almohada,3,5328.24
+343,2025-10-21,C0109,Norte,Electrónica,Mouse,1,16394.63
+344,2025-10-21,C0022,Norte,Electrónica,Smartwatch,2,12024.93
+385,2025-10-21,C0194,GBA,Hogar,Termo,1,7142.36
+801,2025-10-21,C0077,CABA,Juguetes,Bloques,1,5137.72
+881,2025-10-22,C0282,CABA,Juguetes,Auto a control,1,4683.16
+852,2025-10-23,C0019,Sur,Deportes,Colchoneta,1,13113.08
+799,2025-10-23,C0006,GBA,Hogar,Termo,2,6375.58
+292,2025-10-23,C0197,Centro,Juguetes,Auto a control,1,5835.32
+676,2025-10-23,C0157,Centro,Deportes,Pelota,1,15662.24
+407,2025-10-23,C0212,GBA,Juguetes,Peluche,1,5966.94
+638,2025-10-23,C0174,CABA,Juguetes,Peluche,1,3354.63
+699,2025-10-24,C0227,CABA,Hogar,Termo,1,6809.33
+216,2025-10-24,C0075,GBA,Hogar,Sartén,2,5472.94
+1128,2025-10-25,C0167,GBA,Indumentaria,Remera,1,4785.42
+394,2025-10-25,C0050,Norte,Electrónica,Cargador,1,12182.99
+912,2025-10-25,C0107,CABA,Juguetes,Auto a control,1,5986.45
+988,2025-10-25,C0227,CABA,Hogar,Sartén,1,6441.98
+154,2025-10-25,C0172,CABA,Hogar,Lámpara,1,4452.75
+197,2025-10-26,C0090,GBA,Electrónica,Parlante BT,1,18521.67
+936,2025-10-26,C0197,Sur,Deportes,Pelota,1,13578.8
+822,2025-10-26,C0168,Centro,Deportes,Colchoneta,1,14667.3
+749,2025-10-27,C0066,CABA,Juguetes,Bloques,2,5802.62
+266,2025-10-27,C0133,CABA,Indumentaria,Buzo,1,10391.56
+92,2025-10-27,C0204,CABA,Deportes,Bicicleta,2,8670.24
+156,2025-10-27,C0010,CABA,Juguetes,Muñeca,1,5296.26
+786,2025-10-28,C0163,,Deportes,Colchoneta,2,12768.15
+923,2025-10-28,C0061,CABA,Deportes,Mancuernas,1,16234.79
+602,2025-10-28,C0178,CABA,Indumentaria,Campera,1,11155.12
+1017,2025-10-29,C0095,Sur,Indumentaria,Remera,1,5997.7
+785,2025-10-29,C0085,Norte,Juguetes,Bloques,1,1244.69
+517,2025-10-29,C0261,Sur,Hogar,Termo,1,7592.92
+322,2025-10-29,C0038,GBA,Hogar,Termo,1,6543.92
+605,2025-10-29,C0259,CABA,Hogar,Lámpara,1,6872.61
+298,2025-10-30,C0207,Centro,Indumentaria,Campera,1,8915.07
+590,2025-10-30,C0226,Norte,Deportes,Bicicleta,1,7258.27
+208,2025-10-30,C0102,Centro,Deportes,Mancuernas,1,6299.47
+1039,2025-10-31,C0167,CABA,Deportes,Mochila,1,14515.88
+626,2025-10-31,C0214,CABA,Indumentaria,Remera,1,6130.94
+1121,2025-10-31,C0263,Norte,Deportes,Mochila,2,15992.15
+310,2025-10-31,C0199,CABA,Indumentaria,Campera,1,6012.13
+795,2025-10-31,C0015,Centro,Hogar,Sartén,1,3708.96
+849,2025-10-31,C0008,GBA,Deportes,Colchoneta,3,6932.98
+90,2025-11-01,C0120,GBA,Deportes,Colchoneta,1,12900.67
+466,2025-11-01,C0205,Centro,Hogar,Almohada,1,4259.5
+1145,2025-11-01,C0273,CABA,Juguetes,Rompecabezas,2,4564.02
+1148,2025-11-01,C0151,Norte,Indumentaria,Pantalón,1,10110.28
+584,2025-11-01,C0171,CABA,Deportes,Pelota,1,12058.93
+922,2025-11-01,C0212,Centro,Juguetes,Bloques,1,4636.23
+1103,2025-11-02,C0115,Centro,Deportes,Bicicleta,1,14216.34
+551,2025-11-03,C0288,CABA,Juguetes,Rompecabezas,1,1689.72
+1035,2025-11-03,C0166,Norte,Indumentaria,Remera,1,11791.21
+695,2025-11-04,C0021,Centro,Hogar,Termo,2,7591.43
+949,2025-11-04,C0237,Norte,Deportes,Mochila,1,4405.65
+615,2025-11-04,C0202,Centro,Indumentaria,Pantalón,1,4887.96
+146,2025-11-04,C0002,Sur,Juguetes,Rompecabezas,2,4726.67
+805,2025-11-04,C0215,Sur,Indumentaria,Pantalón,1,10102.22
+531,2025-11-04,C0057,Centro,Electrónica,Mouse,1,19805.77
+317,2025-11-06,C0157,CABA,Hogar,Sartén,1,6063.7
+87,2025-11-06,C0253,Norte,Hogar,Termo,1,7578.95
+196,2025-11-07,C0257,CABA,Hogar,Almohada,2,5624.61
+746,2025-11-07,C0198,Centro,Electrónica,Parlante BT,1,13047.61
+445,2025-11-07,C0238,CABA,Deportes,Bicicleta,1,14441.75
+593,2025-11-07,C0286,Norte,Electrónica,Cargador,2,5798.61
+802,2025-11-07,C0174,GBA,Indumentaria,Zapatillas,1,8029.31
+283,2025-11-07,C0141,Centro,Electrónica,Auriculares,2,12628.44
+607,2025-11-08,C0035,CABA,Juguetes,Peluche,1,59740.38
+264,2025-11-08,C0053,Sur,Indumentaria,Campera,1,6319.64
+18,2025-11-08,C0113,GBA,Juguetes,Peluche,1,5240.36
+639,2025-11-09,C0013,CABA,Indumentaria,Campera,2,5117.35
+32,2025-11-09,C0140,CABA,Indumentaria,Zapatillas,1,7686.45
+25,2025-11-09,C0185,GBA,Deportes,Mancuernas,1,9388.31
+145,2025-11-09,C0208,Centro,Hogar,Juego de sábanas,1,4192.38
+356,2025-11-10,C0114,CABA,Deportes,Mancuernas,1,13559.4
+386,2025-11-10,C0153,Sur,Indumentaria,Remera,1,7378.13
+900,2025-11-10,C0261,Norte,Electrónica,Parlante BT,1,8328.34
+522,2025-11-11,C0183,GBA,Deportes,Colchoneta,1,9606.02
+1195,2025-11-11,C0295,Norte,Deportes,Colchoneta,1,13425.63
+404,2025-11-11,C0153,Sur,Deportes,Mochila,1,92186.99
+226,2025-11-11,C0277,Sur,Indumentaria,Remera,1,8986.82
+188,2025-11-11,C0071,CABA,Hogar,Sartén,1,4500.38
+826,2025-11-11,C0227,Centro,Deportes,Bicicleta,2,12931.03
+839,2025-11-12,C0030,Sur,Indumentaria,Buzo,1,10224.9
+835,2025-11-12,C0064,CABA,Electrónica,Smartwatch,1,9839.84
+88,2025-11-12,C0141,GBA,Hogar,Juego de sábanas,1,5230.63
+157,2025-11-12,C0300,GBA,Indumentaria,Campera,1,7908.84
+1016,2025-11-13,C0107,CABA,Deportes,Colchoneta,2,18037.5
+859,2025-11-14,C0174,GBA,Hogar,Termo,1,5014.81
+51,2025-11-14,C0288,CABA,Hogar,Almohada,1,7305.01
+222,2025-11-14,C0024,Centro,Deportes,Mancuernas,1,7832.07
+885,2025-11-16,C0006,Centro,Deportes,Colchoneta,2,14110.63
+973,2025-11-16,C0238,CABA,Deportes,Pelota,1,14487.29
+903,2025-11-16,C0155,CABA,Hogar,Almohada,2,9499.34
+491,2025-11-16,C0192,CABA,Deportes,Colchoneta,2,11656.2
+984,2025-11-16,C0235,CABA,Indumentaria,Zapatillas,1,6800.22
+423,2025-11-17,C0120,Norte,Deportes,Colchoneta,3,15435.96
+115,2025-11-17,C0221,CABA,Juguetes,Muñeca,1,5832.18
+471,2025-11-17,C0297,CABA,Juguetes,Auto a control,2,7300.38
+764,2025-11-17,C0219,GBA,Juguetes,Peluche,1,5444.7
+962,2025-11-18,C0037,GBA,Hogar,Termo,1,6276.72
+724,2025-11-18,C0280,CABA,Juguetes,Peluche,1,5976.63
+478,2025-11-18,C0244,Norte,Electrónica,Parlante BT,1,
+778,2025-11-19,C0103,Centro,Hogar,Termo,1,5258.96
+1049,2025-11-19,C0044,GBA,Hogar,Sartén,1,6894.69
+1023,2025-11-19,C0141,CABA,Deportes,Mochila,1,10392.24
+308,2025-11-19,C0131,Sur,Indumentaria,Pantalón,1,5322.47
+1087,2025-11-19,C0083,GBA,Deportes,Mancuernas,1,7605.57
+441,2025-11-19,C0080,Sur,Deportes,Bicicleta,2,14240.54
+505,2025-11-19,C0063,Centro,Electrónica,Smartwatch,1,13028.48
+360,2025-11-19,C0011,Centro,Indumentaria,Buzo,1,6186.32
+640,2025-11-20,C0078,GBA,Electrónica,Auriculares,1,18893.77
+82,2025-11-20,C0291,Norte,Hogar,Lámpara,1,5714.71
+398,2025-11-21,C0017,CABA,Electrónica,Mouse,1,11823.87
+784,2025-11-21,C0265,CABA,Indumentaria,Zapatillas,2,8727.23
+946,2025-11-21,C0024,Sur,Indumentaria,Campera,1,8451.72
+24,2025-11-22,C0083,GBA,Indumentaria,Pantalón,1,7634.21
+276,2025-11-23,C0068,Norte,Hogar,Lámpara,1,2908.33
+860,2025-11-24,C0015,CABA,Hogar,Sartén,1,8150.05
+1019,2025-11-24,C0222,Sur,Juguetes,Muñeca,2,4784.36
+642,2025-11-24,C0067,Centro,Electrónica,Smartwatch,1,30764.29
+827,2025-11-25,C0088,CABA,Indumentaria,Buzo,1,6743.38
+366,2025-11-26,C0132,CABA,Hogar,Termo,1,7204.94
+68,2025-11-26,C0200,CABA,Hogar,Juego de sábanas,2,6221.27
+823,2025-11-26,C0129,Centro,Hogar,Almohada,1,8214.53
+629,2025-11-26,C0110,CABA,Electrónica,Parlante BT,2,14311.01
+781,2025-11-26,C0042,CABA,Electrónica,Parlante BT,1,18619.85
+721,2025-11-26,C0184,Sur,Juguetes,Muñeca,1,5011.25
+675,2025-11-27,C0148,Norte,Hogar,Termo,1,5778.06
+809,2025-11-27,C0111,GBA,Hogar,Sartén,2,5515.78
+408,2025-11-27,C0167,GBA,Deportes,Mochila,1,12642.5
+397,2025-11-27,C0157,Centro,Juguetes,Bloques,1,6007.72
+636,2025-11-28,C0260,GBA,Indumentaria,Campera,1,7392.12
+139,2025-11-28,C0076,Norte,Indumentaria,Zapatillas,1,9742.18
+579,2025-11-28,C0017,Sur,Deportes,Mancuernas,1,12257.17
+1045,2025-11-28,C0015,CABA,Electrónica,Cargador,1,12970.5
+558,2025-11-28,C0276,Norte,Indumentaria,Remera,1,4120.71
+239,2025-11-28,C0267,CABA,Deportes,Mancuernas,1,6321.6
+477,2025-11-29,C0271,,Electrónica,Auriculares,1,15925.6
+679,2025-11-29,C0030,GBA,Juguetes,Muñeca,1,4351.23
+81,2025-11-29,C0034,Sur,Indumentaria,Remera,1,10365.72
+938,2025-11-29,C0298,CABA,Electrónica,Parlante BT,1,16741.37
+130,2025-11-29,C0293,CABA,Juguetes,Auto a control,2,5748.58
+1180,2025-11-30,C0279,CABA,Hogar,Juego de sábanas,1,8643.99
+494,2025-11-30,C0165,CABA,Hogar,Almohada,3,7074.82
+647,2025-11-30,C0169,GBA,Indumentaria,Remera,1,9078.59
+878,2025-11-30,C0060,Norte,Juguetes,Muñeca,1,7631.35
+655,2025-11-30,C0073,CABA,Electrónica,Smartwatch,1,21906.34
+719,2025-12-01,C0231,Sur,Juguetes,Rompecabezas,1,4430.25
+956,2025-12-01,C0103,CABA,Deportes,Mancuernas,1,9757.34
+229,2025-12-01,C0014,CABA,Hogar,Juego de sábanas,1,6714.01
+1022,2025-12-01,C0001,CABA,Deportes,Mancuernas,1,11040.19
+128,2025-12-02,C0119,CABA,Deportes,Mochila,2,9473.05
+917,2025-12-02,C0030,Norte,Indumentaria,Remera,1,8902.28
+1197,2025-12-02,C0262,CABA,Juguetes,Peluche,1,7027.44
+975,2025-12-02,C0002,CABA,Juguetes,Bloques,1,4418.19
+99,2025-12-02,C0098,CABA,Electrónica,Mouse,1,28751.09
+376,2025-12-02,C0231,CABA,Electrónica,Parlante BT,1,19123.51
+1134,2025-12-03,C0257,Centro,Indumentaria,Zapatillas,2,8773.35
+324,2025-12-04,C0274,Centro,Electrónica,Cargador,1,15010.12
+606,2025-12-04,C0055,GBA,Deportes,Colchoneta,1,3628.7
+340,2025-12-04,C0157,CABA,Juguetes,Auto a control,1,6708.6
+853,2025-12-05,C0116,Centro,Hogar,Almohada,1,5302.69
+806,2025-12-05,C0022,CABA,Electrónica,Mouse,1,11557.43
+158,2025-12-05,C0220,CABA,Deportes,Mochila,1,15176.8
+186,2025-12-05,C0270,Sur,Electrónica,Auriculares,1,11880.7
+964,2025-12-06,C0193,GBA,Indumentaria,Campera,1,7875.65
+1193,2025-12-06,C0118,GBA,Hogar,Almohada,2,6737.32
+40,2025-12-06,C0294,Norte,Hogar,Lámpara,1,7169.84
+937,2025-12-06,C0100,Sur,Indumentaria,Pantalón,3,6851.01
+395,2025-12-06,C0068,Sur,Indumentaria,Campera,2,10512.6
+349,2025-12-07,C0248,Norte,Electrónica,Cargador,2,18582.3
+737,2025-12-07,C0287,Centro,Hogar,Sartén,1,1835.13
+512,2025-12-07,C0021,Centro,Indumentaria,Pantalón,1,3219.67
+178,2025-12-08,C0174,GBA,Indumentaria,Zapatillas,1,8747.0
+434,2025-12-08,C0034,CABA,Indumentaria,Pantalón,1,7316.59
+627,2025-12-08,C0064,Sur,Electrónica,Parlante BT,2,19538.64
+989,2025-12-09,C0062,CABA,Hogar,Sartén,1,6985.47
+526,2025-12-09,C0274,CABA,Juguetes,Muñeca,1,4075.05
+296,2025-12-09,C0023,Centro,Hogar,Juego de sábanas,1,7351.37
+321,2025-12-09,C0026,Sur,Juguetes,Peluche,1,6041.04
+373,2025-12-09,C0029,Norte,Juguetes,Rompecabezas,3,5223.93
+549,2025-12-09,C0136,Norte,Electrónica,Parlante BT,1,17744.79
+630,2025-12-09,C0163,Norte,Electrónica,Mouse,2,22447.07
+1001,2025-12-09,C0266,CABA,Hogar,Almohada,2,4489.97
+985,2025-12-09,C0003,,Electrónica,Smartwatch,1,13416.91
+37,2025-12-10,C0268,Sur,Hogar,Termo,1,6813.64
+529,2025-12-10,C0042,CABA,Juguetes,Bloques,3,4659.6
+632,2025-12-10,C0124,CABA,Electrónica,Auriculares,1,15767.37
+387,2025-12-10,C0194,GBA,Electrónica,Auriculares,1,17980.95
+544,2025-12-10,C0299,Centro,Hogar,Lámpara,2,1854.6
+436,2025-12-11,C0196,GBA,Electrónica,Parlante BT,1,19682.47
+907,2025-12-11,C0147,CABA,Electrónica,Mouse,1,17698.82
+1112,2025-12-12,C0023,CABA,Electrónica,Auriculares,2,2590.43
+1136,2025-12-12,C0268,CABA,Hogar,Lámpara,1,3351.88
+11,2025-12-12,C0265,Centro,Indumentaria,Zapatillas,1,11055.57
+475,2025-12-13,C0072,Sur,Deportes,Pelota,2,14470.5
+240,2025-12-14,C0112,Norte,Electrónica,Mouse,1,12688.7
+1074,2025-12-14,C0074,GBA,Indumentaria,Zapatillas,1,8332.16
+1086,2025-12-14,C0179,GBA,Deportes,Pelota,1,10411.43
+824,2025-12-14,C0294,CABA,Hogar,Almohada,1,8428.5
+345,2025-12-14,C0225,CABA,Juguetes,Rompecabezas,1,4710.5
+7,2025-12-15,C0251,Centro,Electrónica,Auriculares,1,12135.18
+515,2025-12-15,C0120,CABA,Juguetes,Bloques,1,5740.57
+198,2025-12-15,C0011,Sur,Indumentaria,Zapatillas,1,6661.51
+410,2025-12-16,C0086,Norte,Deportes,Colchoneta,1,84485.2
+863,2025-12-16,C0213,Norte,Deportes,Colchoneta,2,8904.33
+124,2025-12-16,C0108,GBA,Electrónica,Auriculares,1,13409.41
+43,2025-12-16,C0216,CABA,Hogar,Sartén,1,6596.86
+78,2025-12-16,C0126,CABA,Electrónica,Cargador,2,16980.69
+247,2025-12-17,C0254,Norte,Juguetes,Peluche,3,6317.14
+730,2025-12-18,C0295,Norte,Deportes,Bicicleta,1,114142.66
+171,2025-12-19,C0269,Centro,Indumentaria,Campera,1,8238.31
+744,2025-12-19,C0288,CABA,Deportes,Colchoneta,1,12712.21
+690,2025-12-19,C0230,Norte,Juguetes,Muñeca,2,4718.81
+794,2025-12-19,C0248,Sur,Juguetes,Auto a control,1,4340.55
+582,2025-12-19,C0146,,Deportes,Colchoneta,1,19764.22
+1185,2025-12-20,C0169,CABA,Hogar,Almohada,2,4949.59
+600,2025-12-20,C0096,CABA,Electrónica,Cargador,1,11179.07
+252,2025-12-20,C0275,GBA,Indumentaria,Zapatillas,3,7602.06
+800,2025-12-20,C0237,CABA,Electrónica,Cargador,1,6002.45
+256,2025-12-20,C0268,CABA,Hogar,Lámpara,2,4967.97
+518,2025-12-20,C0184,Sur,Juguetes,Bloques,1,6814.41
+371,2025-12-21,C0244,CABA,Deportes,Colchoneta,1,10097.91
+974,2025-12-21,C0175,CABA,Deportes,Mancuernas,1,11978.08
+303,2025-12-22,C0031,Norte,Electrónica,Parlante BT,1,11853.66
+660,2025-12-22,C0261,Sur,Indumentaria,Pantalón,1,4730.16
+1164,2025-12-22,C0155,CABA,Indumentaria,Campera,1,10231.04
+1091,2025-12-22,C0141,GBA,Electrónica,Parlante BT,1,21024.34
+622,2025-12-23,C0227,Norte,Indumentaria,Zapatillas,2,10028.42
+57,2025-12-23,C0135,Centro,Electrónica,Smartwatch,1,15518.49
+825,2025-12-24,C0261,Centro,Deportes,Colchoneta,2,10190.01
+1082,2025-12-25,C0171,Centro,Electrónica,Cargador,2,14345.42
+545,2025-12-25,C0029,GBA,Electrónica,Parlante BT,1,17828.33
+497,2025-12-26,C0115,Centro,Electrónica,Cargador,2,17809.65
+443,2025-12-26,C0237,Centro,Hogar,Termo,1,6861.1
+1088,2025-12-26,C0121,CABA,Juguetes,Muñeca,1,55284.95
+272,2025-12-26,C0175,Sur,Indumentaria,Campera,2,8497.61
+651,2025-12-26,C0194,CABA,Electrónica,Auriculares,1,16299.4
+742,2025-12-26,C0236,CABA,Hogar,Juego de sábanas,2,6141.72
+812,2025-12-27,C0196,Sur,Electrónica,Mouse,1,121902.18
+1129,2025-12-27,C0023,Norte,Hogar,Termo,1,4903.9
+711,2025-12-28,C0283,CABA,Deportes,Colchoneta,2,7419.46
+444,2025-12-28,C0107,,Electrónica,Mouse,1,19445.41
+367,2025-12-28,C0081,Norte,Indumentaria,Remera,1,8028.23
+169,2025-12-28,C0038,Norte,Hogar,Lámpara,1,6132.69
+913,2025-12-29,C0177,Norte,Indumentaria,Remera,1,7326.31
+214,2025-12-29,C0071,CABA,Electrónica,Cargador,1,8068.66
+760,2025-12-29,C0248,CABA,Hogar,Juego de sábanas,1,6178.79
+219,2025-12-30,C0179,GBA,Hogar,Lámpara,1,8834.37
+144,2025-12-30,C0289,CABA,Hogar,Lámpara,1,4353.18
+552,2025-12-30,C0298,Centro,Electrónica,Cargador,1,16674.3
+384,2025-12-31,C0015,Norte,Electrónica,Auriculares,1,9984.86
+249,2025-12-31,C0017,CABA,Juguetes,Peluche,1,7023.34
+1096,2025-12-31,C0182,CABA,Electrónica,Auriculares,1,18639.22
+568,2025-12-31,C0264,CABA,Indumentaria,Buzo,2,4753.34
